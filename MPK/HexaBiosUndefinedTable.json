@@ -1,0 +1,53 @@
+{
+  "version": "0.0.1",
+  "records": [
+    {
+      "id": 101,
+      "name_localkey": "Locale_Item:randombox_wipeout_equipment_01_name",
+      "description_localkey": "Locale_Item:randombox_wipeout_equipment_desc",
+      "resource_id": null,
+      "bios_rare": 4,
+      "bios_group": 101
+    },
+    {
+      "id": 201,
+      "name_localkey": "Locale_Item:randombox_wipeout_equipment_02_name",
+      "description_localkey": "Locale_Item:randombox_wipeout_equipment_desc",
+      "resource_id": null,
+      "bios_rare": 5,
+      "bios_group": 201
+    },
+    {
+      "id": 301,
+      "name_localkey": "Locale_Item:randombox_wipeout_equipment_03_name",
+      "description_localkey": "Locale_Item:randombox_wipeout_equipment_desc",
+      "resource_id": null,
+      "bios_rare": 6,
+      "bios_group": 301
+    },
+    {
+      "id": 401,
+      "name_localkey": "Locale_Item:randombox_wipeout_equipment_04_name",
+      "description_localkey": "Locale_Item:randombox_wipeout_equipment_desc",
+      "resource_id": null,
+      "bios_rare": 7,
+      "bios_group": 401
+    },
+    {
+      "id": 501,
+      "name_localkey": "Locale_Item:randombox_wipeout_equipment_05_name",
+      "description_localkey": "Locale_Item:randombox_wipeout_equipment_desc",
+      "resource_id": null,
+      "bios_rare": 8,
+      "bios_group": 501
+    },
+    {
+      "id": 601,
+      "name_localkey": "Locale_Item:randombox_wipeout_equipment_06_name",
+      "description_localkey": null,
+      "resource_id": null,
+      "bios_rare": 9,
+      "bios_group": 601
+    }
+  ]
+}

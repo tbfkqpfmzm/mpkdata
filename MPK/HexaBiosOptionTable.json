@@ -1,0 +1,2057 @@
+{
+  "version": "0.0.1",
+  "records": [
+    {
+      "id": 10101,
+      "order": 1,
+      "option_rare": 4,
+      "state_effect_localkey": "Locale_Skill:incelementdmg_description",
+      "function_id": 101,
+      "HexaBiosOptionRandomData": [
+        {
+          "need_point": 18,
+          "state_effect_id": 7000501
+        },
+        {
+          "need_point": 36,
+          "state_effect_id": 7000502
+        },
+        {
+          "need_point": 54,
+          "state_effect_id": 7000503
+        },
+        {
+          "need_point": 72,
+          "state_effect_id": 7000504
+        },
+        {
+          "need_point": 90,
+          "state_effect_id": 7000505
+        },
+        {
+          "need_point": 108,
+          "state_effect_id": 7000506
+        },
+        {
+          "need_point": 0,
+          "state_effect_id": 0
+        },
+        {
+          "need_point": 0,
+          "state_effect_id": 0
+        },
+        {
+          "need_point": 0,
+          "state_effect_id": 0
+        },
+        {
+          "need_point": 0,
+          "state_effect_id": 0
+        },
+        {
+          "need_point": 0,
+          "state_effect_id": 0
+        },
+        {
+          "need_point": 0,
+          "state_effect_id": 0
+        }
+      ]
+    },
+    {
+      "id": 10102,
+      "order": 2,
+      "option_rare": 4,
+      "state_effect_localkey": "Locale_Skill:statatk_description",
+      "function_id": 201,
+      "HexaBiosOptionRandomData": [
+        {
+          "need_point": 18,
+          "state_effect_id": 7000801
+        },
+        {
+          "need_point": 36,
+          "state_effect_id": 7000802
+        },
+        {
+          "need_point": 54,
+          "state_effect_id": 7000803
+        },
+        {
+          "need_point": 72,
+          "state_effect_id": 7000804
+        },
+        {
+          "need_point": 90,
+          "state_effect_id": 7000805
+        },
+        {
+          "need_point": 108,
+          "state_effect_id": 7000806
+        },
+        {
+          "need_point": 0,
+          "state_effect_id": 0
+        },
+        {
+          "need_point": 0,
+          "state_effect_id": 0
+        },
+        {
+          "need_point": 0,
+          "state_effect_id": 0
+        },
+        {
+          "need_point": 0,
+          "state_effect_id": 0
+        },
+        {
+          "need_point": 0,
+          "state_effect_id": 0
+        },
+        {
+          "need_point": 0,
+          "state_effect_id": 0
+        }
+      ]
+    },
+    {
+      "id": 10201,
+      "order": 3,
+      "option_rare": 4,
+      "state_effect_localkey": "Locale_Skill:statcritical_description",
+      "function_id": 301,
+      "HexaBiosOptionRandomData": [
+        {
+          "need_point": 18,
+          "state_effect_id": 7001201
+        },
+        {
+          "need_point": 36,
+          "state_effect_id": 7001202
+        },
+        {
+          "need_point": 54,
+          "state_effect_id": 7001203
+        },
+        {
+          "need_point": 72,
+          "state_effect_id": 7001204
+        },
+        {
+          "need_point": 90,
+          "state_effect_id": 7001205
+        },
+        {
+          "need_point": 108,
+          "state_effect_id": 7001206
+        },
+        {
+          "need_point": 0,
+          "state_effect_id": 0
+        },
+        {
+          "need_point": 0,
+          "state_effect_id": 0
+        },
+        {
+          "need_point": 0,
+          "state_effect_id": 0
+        },
+        {
+          "need_point": 0,
+          "state_effect_id": 0
+        },
+        {
+          "need_point": 0,
+          "state_effect_id": 0
+        },
+        {
+          "need_point": 0,
+          "state_effect_id": 0
+        }
+      ]
+    },
+    {
+      "id": 10202,
+      "order": 4,
+      "option_rare": 4,
+      "state_effect_localkey": "Locale_Skill:statdef_description",
+      "function_id": 401,
+      "HexaBiosOptionRandomData": [
+        {
+          "need_point": 18,
+          "state_effect_id": 7001301
+        },
+        {
+          "need_point": 36,
+          "state_effect_id": 7001302
+        },
+        {
+          "need_point": 54,
+          "state_effect_id": 7001303
+        },
+        {
+          "need_point": 72,
+          "state_effect_id": 7001304
+        },
+        {
+          "need_point": 90,
+          "state_effect_id": 7001305
+        },
+        {
+          "need_point": 108,
+          "state_effect_id": 7001306
+        },
+        {
+          "need_point": 0,
+          "state_effect_id": 0
+        },
+        {
+          "need_point": 0,
+          "state_effect_id": 0
+        },
+        {
+          "need_point": 0,
+          "state_effect_id": 0
+        },
+        {
+          "need_point": 0,
+          "state_effect_id": 0
+        },
+        {
+          "need_point": 0,
+          "state_effect_id": 0
+        },
+        {
+          "need_point": 0,
+          "state_effect_id": 0
+        }
+      ]
+    },
+    {
+      "id": 10301,
+      "order": 5,
+      "option_rare": 4,
+      "state_effect_localkey": "Locale_Skill:stataccuracycircle_description",
+      "function_id": 501,
+      "HexaBiosOptionRandomData": [
+        {
+          "need_point": 18,
+          "state_effect_id": 7000601
+        },
+        {
+          "need_point": 36,
+          "state_effect_id": 7000602
+        },
+        {
+          "need_point": 54,
+          "state_effect_id": 7000603
+        },
+        {
+          "need_point": 72,
+          "state_effect_id": 7000604
+        },
+        {
+          "need_point": 90,
+          "state_effect_id": 7000605
+        },
+        {
+          "need_point": 108,
+          "state_effect_id": 7000606
+        },
+        {
+          "need_point": 0,
+          "state_effect_id": 0
+        },
+        {
+          "need_point": 0,
+          "state_effect_id": 0
+        },
+        {
+          "need_point": 0,
+          "state_effect_id": 0
+        },
+        {
+          "need_point": 0,
+          "state_effect_id": 0
+        },
+        {
+          "need_point": 0,
+          "state_effect_id": 0
+        },
+        {
+          "need_point": 0,
+          "state_effect_id": 0
+        }
+      ]
+    },
+    {
+      "id": 10302,
+      "order": 6,
+      "option_rare": 4,
+      "state_effect_localkey": "Locale_Skill:statchargedamage_description",
+      "function_id": 601,
+      "HexaBiosOptionRandomData": [
+        {
+          "need_point": 18,
+          "state_effect_id": 7000901
+        },
+        {
+          "need_point": 36,
+          "state_effect_id": 7000902
+        },
+        {
+          "need_point": 54,
+          "state_effect_id": 7000903
+        },
+        {
+          "need_point": 72,
+          "state_effect_id": 7000904
+        },
+        {
+          "need_point": 90,
+          "state_effect_id": 7000905
+        },
+        {
+          "need_point": 108,
+          "state_effect_id": 7000906
+        },
+        {
+          "need_point": 0,
+          "state_effect_id": 0
+        },
+        {
+          "need_point": 0,
+          "state_effect_id": 0
+        },
+        {
+          "need_point": 0,
+          "state_effect_id": 0
+        },
+        {
+          "need_point": 0,
+          "state_effect_id": 0
+        },
+        {
+          "need_point": 0,
+          "state_effect_id": 0
+        },
+        {
+          "need_point": 0,
+          "state_effect_id": 0
+        }
+      ]
+    },
+    {
+      "id": 20101,
+      "order": 7,
+      "option_rare": 5,
+      "state_effect_localkey": "Locale_Skill:incelementdmg_description",
+      "function_id": 101,
+      "HexaBiosOptionRandomData": [
+        {
+          "need_point": 18,
+          "state_effect_id": 7000501
+        },
+        {
+          "need_point": 36,
+          "state_effect_id": 7000502
+        },
+        {
+          "need_point": 54,
+          "state_effect_id": 7000503
+        },
+        {
+          "need_point": 72,
+          "state_effect_id": 7000504
+        },
+        {
+          "need_point": 90,
+          "state_effect_id": 7000505
+        },
+        {
+          "need_point": 108,
+          "state_effect_id": 7000506
+        },
+        {
+          "need_point": 0,
+          "state_effect_id": 0
+        },
+        {
+          "need_point": 0,
+          "state_effect_id": 0
+        },
+        {
+          "need_point": 0,
+          "state_effect_id": 0
+        },
+        {
+          "need_point": 0,
+          "state_effect_id": 0
+        },
+        {
+          "need_point": 0,
+          "state_effect_id": 0
+        },
+        {
+          "need_point": 0,
+          "state_effect_id": 0
+        }
+      ]
+    },
+    {
+      "id": 20102,
+      "order": 8,
+      "option_rare": 5,
+      "state_effect_localkey": "Locale_Skill:statatk_description",
+      "function_id": 201,
+      "HexaBiosOptionRandomData": [
+        {
+          "need_point": 18,
+          "state_effect_id": 7000801
+        },
+        {
+          "need_point": 36,
+          "state_effect_id": 7000802
+        },
+        {
+          "need_point": 54,
+          "state_effect_id": 7000803
+        },
+        {
+          "need_point": 72,
+          "state_effect_id": 7000804
+        },
+        {
+          "need_point": 90,
+          "state_effect_id": 7000805
+        },
+        {
+          "need_point": 108,
+          "state_effect_id": 7000806
+        },
+        {
+          "need_point": 0,
+          "state_effect_id": 0
+        },
+        {
+          "need_point": 0,
+          "state_effect_id": 0
+        },
+        {
+          "need_point": 0,
+          "state_effect_id": 0
+        },
+        {
+          "need_point": 0,
+          "state_effect_id": 0
+        },
+        {
+          "need_point": 0,
+          "state_effect_id": 0
+        },
+        {
+          "need_point": 0,
+          "state_effect_id": 0
+        }
+      ]
+    },
+    {
+      "id": 20201,
+      "order": 9,
+      "option_rare": 5,
+      "state_effect_localkey": "Locale_Skill:statcritical_description",
+      "function_id": 301,
+      "HexaBiosOptionRandomData": [
+        {
+          "need_point": 18,
+          "state_effect_id": 7001201
+        },
+        {
+          "need_point": 36,
+          "state_effect_id": 7001202
+        },
+        {
+          "need_point": 54,
+          "state_effect_id": 7001203
+        },
+        {
+          "need_point": 72,
+          "state_effect_id": 7001204
+        },
+        {
+          "need_point": 90,
+          "state_effect_id": 7001205
+        },
+        {
+          "need_point": 108,
+          "state_effect_id": 7001206
+        },
+        {
+          "need_point": 0,
+          "state_effect_id": 0
+        },
+        {
+          "need_point": 0,
+          "state_effect_id": 0
+        },
+        {
+          "need_point": 0,
+          "state_effect_id": 0
+        },
+        {
+          "need_point": 0,
+          "state_effect_id": 0
+        },
+        {
+          "need_point": 0,
+          "state_effect_id": 0
+        },
+        {
+          "need_point": 0,
+          "state_effect_id": 0
+        }
+      ]
+    },
+    {
+      "id": 20202,
+      "order": 10,
+      "option_rare": 5,
+      "state_effect_localkey": "Locale_Skill:statdef_description",
+      "function_id": 401,
+      "HexaBiosOptionRandomData": [
+        {
+          "need_point": 18,
+          "state_effect_id": 7001301
+        },
+        {
+          "need_point": 36,
+          "state_effect_id": 7001302
+        },
+        {
+          "need_point": 54,
+          "state_effect_id": 7001303
+        },
+        {
+          "need_point": 72,
+          "state_effect_id": 7001304
+        },
+        {
+          "need_point": 90,
+          "state_effect_id": 7001305
+        },
+        {
+          "need_point": 108,
+          "state_effect_id": 7001306
+        },
+        {
+          "need_point": 0,
+          "state_effect_id": 0
+        },
+        {
+          "need_point": 0,
+          "state_effect_id": 0
+        },
+        {
+          "need_point": 0,
+          "state_effect_id": 0
+        },
+        {
+          "need_point": 0,
+          "state_effect_id": 0
+        },
+        {
+          "need_point": 0,
+          "state_effect_id": 0
+        },
+        {
+          "need_point": 0,
+          "state_effect_id": 0
+        }
+      ]
+    },
+    {
+      "id": 20301,
+      "order": 11,
+      "option_rare": 5,
+      "state_effect_localkey": "Locale_Skill:stataccuracycircle_description",
+      "function_id": 501,
+      "HexaBiosOptionRandomData": [
+        {
+          "need_point": 18,
+          "state_effect_id": 7000601
+        },
+        {
+          "need_point": 36,
+          "state_effect_id": 7000602
+        },
+        {
+          "need_point": 54,
+          "state_effect_id": 7000603
+        },
+        {
+          "need_point": 72,
+          "state_effect_id": 7000604
+        },
+        {
+          "need_point": 90,
+          "state_effect_id": 7000605
+        },
+        {
+          "need_point": 108,
+          "state_effect_id": 7000606
+        },
+        {
+          "need_point": 0,
+          "state_effect_id": 0
+        },
+        {
+          "need_point": 0,
+          "state_effect_id": 0
+        },
+        {
+          "need_point": 0,
+          "state_effect_id": 0
+        },
+        {
+          "need_point": 0,
+          "state_effect_id": 0
+        },
+        {
+          "need_point": 0,
+          "state_effect_id": 0
+        },
+        {
+          "need_point": 0,
+          "state_effect_id": 0
+        }
+      ]
+    },
+    {
+      "id": 20302,
+      "order": 12,
+      "option_rare": 5,
+      "state_effect_localkey": "Locale_Skill:statchargedamage_description",
+      "function_id": 601,
+      "HexaBiosOptionRandomData": [
+        {
+          "need_point": 18,
+          "state_effect_id": 7000901
+        },
+        {
+          "need_point": 36,
+          "state_effect_id": 7000902
+        },
+        {
+          "need_point": 54,
+          "state_effect_id": 7000903
+        },
+        {
+          "need_point": 72,
+          "state_effect_id": 7000904
+        },
+        {
+          "need_point": 90,
+          "state_effect_id": 7000905
+        },
+        {
+          "need_point": 108,
+          "state_effect_id": 7000906
+        },
+        {
+          "need_point": 0,
+          "state_effect_id": 0
+        },
+        {
+          "need_point": 0,
+          "state_effect_id": 0
+        },
+        {
+          "need_point": 0,
+          "state_effect_id": 0
+        },
+        {
+          "need_point": 0,
+          "state_effect_id": 0
+        },
+        {
+          "need_point": 0,
+          "state_effect_id": 0
+        },
+        {
+          "need_point": 0,
+          "state_effect_id": 0
+        }
+      ]
+    },
+    {
+      "id": 30101,
+      "order": 13,
+      "option_rare": 6,
+      "state_effect_localkey": "Locale_Skill:incelementdmg_description",
+      "function_id": 101,
+      "HexaBiosOptionRandomData": [
+        {
+          "need_point": 18,
+          "state_effect_id": 7000501
+        },
+        {
+          "need_point": 36,
+          "state_effect_id": 7000502
+        },
+        {
+          "need_point": 54,
+          "state_effect_id": 7000503
+        },
+        {
+          "need_point": 72,
+          "state_effect_id": 7000504
+        },
+        {
+          "need_point": 90,
+          "state_effect_id": 7000505
+        },
+        {
+          "need_point": 108,
+          "state_effect_id": 7000506
+        },
+        {
+          "need_point": 0,
+          "state_effect_id": 0
+        },
+        {
+          "need_point": 0,
+          "state_effect_id": 0
+        },
+        {
+          "need_point": 0,
+          "state_effect_id": 0
+        },
+        {
+          "need_point": 0,
+          "state_effect_id": 0
+        },
+        {
+          "need_point": 0,
+          "state_effect_id": 0
+        },
+        {
+          "need_point": 0,
+          "state_effect_id": 0
+        }
+      ]
+    },
+    {
+      "id": 30102,
+      "order": 14,
+      "option_rare": 6,
+      "state_effect_localkey": "Locale_Skill:statatk_description",
+      "function_id": 201,
+      "HexaBiosOptionRandomData": [
+        {
+          "need_point": 18,
+          "state_effect_id": 7000801
+        },
+        {
+          "need_point": 36,
+          "state_effect_id": 7000802
+        },
+        {
+          "need_point": 54,
+          "state_effect_id": 7000803
+        },
+        {
+          "need_point": 72,
+          "state_effect_id": 7000804
+        },
+        {
+          "need_point": 90,
+          "state_effect_id": 7000805
+        },
+        {
+          "need_point": 108,
+          "state_effect_id": 7000806
+        },
+        {
+          "need_point": 0,
+          "state_effect_id": 0
+        },
+        {
+          "need_point": 0,
+          "state_effect_id": 0
+        },
+        {
+          "need_point": 0,
+          "state_effect_id": 0
+        },
+        {
+          "need_point": 0,
+          "state_effect_id": 0
+        },
+        {
+          "need_point": 0,
+          "state_effect_id": 0
+        },
+        {
+          "need_point": 0,
+          "state_effect_id": 0
+        }
+      ]
+    },
+    {
+      "id": 30201,
+      "order": 15,
+      "option_rare": 6,
+      "state_effect_localkey": "Locale_Skill:statcritical_description",
+      "function_id": 301,
+      "HexaBiosOptionRandomData": [
+        {
+          "need_point": 18,
+          "state_effect_id": 7001201
+        },
+        {
+          "need_point": 36,
+          "state_effect_id": 7001202
+        },
+        {
+          "need_point": 54,
+          "state_effect_id": 7001203
+        },
+        {
+          "need_point": 72,
+          "state_effect_id": 7001204
+        },
+        {
+          "need_point": 90,
+          "state_effect_id": 7001205
+        },
+        {
+          "need_point": 108,
+          "state_effect_id": 7001206
+        },
+        {
+          "need_point": 0,
+          "state_effect_id": 0
+        },
+        {
+          "need_point": 0,
+          "state_effect_id": 0
+        },
+        {
+          "need_point": 0,
+          "state_effect_id": 0
+        },
+        {
+          "need_point": 0,
+          "state_effect_id": 0
+        },
+        {
+          "need_point": 0,
+          "state_effect_id": 0
+        },
+        {
+          "need_point": 0,
+          "state_effect_id": 0
+        }
+      ]
+    },
+    {
+      "id": 30202,
+      "order": 16,
+      "option_rare": 6,
+      "state_effect_localkey": "Locale_Skill:statdef_description",
+      "function_id": 401,
+      "HexaBiosOptionRandomData": [
+        {
+          "need_point": 18,
+          "state_effect_id": 7001301
+        },
+        {
+          "need_point": 36,
+          "state_effect_id": 7001302
+        },
+        {
+          "need_point": 54,
+          "state_effect_id": 7001303
+        },
+        {
+          "need_point": 72,
+          "state_effect_id": 7001304
+        },
+        {
+          "need_point": 90,
+          "state_effect_id": 7001305
+        },
+        {
+          "need_point": 108,
+          "state_effect_id": 7001306
+        },
+        {
+          "need_point": 0,
+          "state_effect_id": 0
+        },
+        {
+          "need_point": 0,
+          "state_effect_id": 0
+        },
+        {
+          "need_point": 0,
+          "state_effect_id": 0
+        },
+        {
+          "need_point": 0,
+          "state_effect_id": 0
+        },
+        {
+          "need_point": 0,
+          "state_effect_id": 0
+        },
+        {
+          "need_point": 0,
+          "state_effect_id": 0
+        }
+      ]
+    },
+    {
+      "id": 30301,
+      "order": 17,
+      "option_rare": 6,
+      "state_effect_localkey": "Locale_Skill:stataccuracycircle_description",
+      "function_id": 501,
+      "HexaBiosOptionRandomData": [
+        {
+          "need_point": 18,
+          "state_effect_id": 7000601
+        },
+        {
+          "need_point": 36,
+          "state_effect_id": 7000602
+        },
+        {
+          "need_point": 54,
+          "state_effect_id": 7000603
+        },
+        {
+          "need_point": 72,
+          "state_effect_id": 7000604
+        },
+        {
+          "need_point": 90,
+          "state_effect_id": 7000605
+        },
+        {
+          "need_point": 108,
+          "state_effect_id": 7000606
+        },
+        {
+          "need_point": 0,
+          "state_effect_id": 0
+        },
+        {
+          "need_point": 0,
+          "state_effect_id": 0
+        },
+        {
+          "need_point": 0,
+          "state_effect_id": 0
+        },
+        {
+          "need_point": 0,
+          "state_effect_id": 0
+        },
+        {
+          "need_point": 0,
+          "state_effect_id": 0
+        },
+        {
+          "need_point": 0,
+          "state_effect_id": 0
+        }
+      ]
+    },
+    {
+      "id": 30302,
+      "order": 18,
+      "option_rare": 6,
+      "state_effect_localkey": "Locale_Skill:statchargedamage_description",
+      "function_id": 601,
+      "HexaBiosOptionRandomData": [
+        {
+          "need_point": 18,
+          "state_effect_id": 7000901
+        },
+        {
+          "need_point": 36,
+          "state_effect_id": 7000902
+        },
+        {
+          "need_point": 54,
+          "state_effect_id": 7000903
+        },
+        {
+          "need_point": 72,
+          "state_effect_id": 7000904
+        },
+        {
+          "need_point": 90,
+          "state_effect_id": 7000905
+        },
+        {
+          "need_point": 108,
+          "state_effect_id": 7000906
+        },
+        {
+          "need_point": 0,
+          "state_effect_id": 0
+        },
+        {
+          "need_point": 0,
+          "state_effect_id": 0
+        },
+        {
+          "need_point": 0,
+          "state_effect_id": 0
+        },
+        {
+          "need_point": 0,
+          "state_effect_id": 0
+        },
+        {
+          "need_point": 0,
+          "state_effect_id": 0
+        },
+        {
+          "need_point": 0,
+          "state_effect_id": 0
+        }
+      ]
+    },
+    {
+      "id": 40101,
+      "order": 19,
+      "option_rare": 7,
+      "state_effect_localkey": "Locale_Skill:incelementdmg_description",
+      "function_id": 101,
+      "HexaBiosOptionRandomData": [
+        {
+          "need_point": 18,
+          "state_effect_id": 7000501
+        },
+        {
+          "need_point": 36,
+          "state_effect_id": 7000502
+        },
+        {
+          "need_point": 54,
+          "state_effect_id": 7000503
+        },
+        {
+          "need_point": 72,
+          "state_effect_id": 7000504
+        },
+        {
+          "need_point": 90,
+          "state_effect_id": 7000505
+        },
+        {
+          "need_point": 108,
+          "state_effect_id": 7000506
+        },
+        {
+          "need_point": 0,
+          "state_effect_id": 0
+        },
+        {
+          "need_point": 0,
+          "state_effect_id": 0
+        },
+        {
+          "need_point": 0,
+          "state_effect_id": 0
+        },
+        {
+          "need_point": 0,
+          "state_effect_id": 0
+        },
+        {
+          "need_point": 0,
+          "state_effect_id": 0
+        },
+        {
+          "need_point": 0,
+          "state_effect_id": 0
+        }
+      ]
+    },
+    {
+      "id": 40102,
+      "order": 20,
+      "option_rare": 7,
+      "state_effect_localkey": "Locale_Skill:statatk_description",
+      "function_id": 201,
+      "HexaBiosOptionRandomData": [
+        {
+          "need_point": 18,
+          "state_effect_id": 7000801
+        },
+        {
+          "need_point": 36,
+          "state_effect_id": 7000802
+        },
+        {
+          "need_point": 54,
+          "state_effect_id": 7000803
+        },
+        {
+          "need_point": 72,
+          "state_effect_id": 7000804
+        },
+        {
+          "need_point": 90,
+          "state_effect_id": 7000805
+        },
+        {
+          "need_point": 108,
+          "state_effect_id": 7000806
+        },
+        {
+          "need_point": 0,
+          "state_effect_id": 0
+        },
+        {
+          "need_point": 0,
+          "state_effect_id": 0
+        },
+        {
+          "need_point": 0,
+          "state_effect_id": 0
+        },
+        {
+          "need_point": 0,
+          "state_effect_id": 0
+        },
+        {
+          "need_point": 0,
+          "state_effect_id": 0
+        },
+        {
+          "need_point": 0,
+          "state_effect_id": 0
+        }
+      ]
+    },
+    {
+      "id": 40201,
+      "order": 21,
+      "option_rare": 7,
+      "state_effect_localkey": "Locale_Skill:statcritical_description",
+      "function_id": 301,
+      "HexaBiosOptionRandomData": [
+        {
+          "need_point": 18,
+          "state_effect_id": 7001201
+        },
+        {
+          "need_point": 36,
+          "state_effect_id": 7001202
+        },
+        {
+          "need_point": 54,
+          "state_effect_id": 7001203
+        },
+        {
+          "need_point": 72,
+          "state_effect_id": 7001204
+        },
+        {
+          "need_point": 90,
+          "state_effect_id": 7001205
+        },
+        {
+          "need_point": 108,
+          "state_effect_id": 7001206
+        },
+        {
+          "need_point": 0,
+          "state_effect_id": 0
+        },
+        {
+          "need_point": 0,
+          "state_effect_id": 0
+        },
+        {
+          "need_point": 0,
+          "state_effect_id": 0
+        },
+        {
+          "need_point": 0,
+          "state_effect_id": 0
+        },
+        {
+          "need_point": 0,
+          "state_effect_id": 0
+        },
+        {
+          "need_point": 0,
+          "state_effect_id": 0
+        }
+      ]
+    },
+    {
+      "id": 40202,
+      "order": 22,
+      "option_rare": 7,
+      "state_effect_localkey": "Locale_Skill:statdef_description",
+      "function_id": 401,
+      "HexaBiosOptionRandomData": [
+        {
+          "need_point": 18,
+          "state_effect_id": 7001301
+        },
+        {
+          "need_point": 36,
+          "state_effect_id": 7001302
+        },
+        {
+          "need_point": 54,
+          "state_effect_id": 7001303
+        },
+        {
+          "need_point": 72,
+          "state_effect_id": 7001304
+        },
+        {
+          "need_point": 90,
+          "state_effect_id": 7001305
+        },
+        {
+          "need_point": 108,
+          "state_effect_id": 7001306
+        },
+        {
+          "need_point": 0,
+          "state_effect_id": 0
+        },
+        {
+          "need_point": 0,
+          "state_effect_id": 0
+        },
+        {
+          "need_point": 0,
+          "state_effect_id": 0
+        },
+        {
+          "need_point": 0,
+          "state_effect_id": 0
+        },
+        {
+          "need_point": 0,
+          "state_effect_id": 0
+        },
+        {
+          "need_point": 0,
+          "state_effect_id": 0
+        }
+      ]
+    },
+    {
+      "id": 40301,
+      "order": 23,
+      "option_rare": 7,
+      "state_effect_localkey": "Locale_Skill:stataccuracycircle_description",
+      "function_id": 501,
+      "HexaBiosOptionRandomData": [
+        {
+          "need_point": 18,
+          "state_effect_id": 7000601
+        },
+        {
+          "need_point": 36,
+          "state_effect_id": 7000602
+        },
+        {
+          "need_point": 54,
+          "state_effect_id": 7000603
+        },
+        {
+          "need_point": 72,
+          "state_effect_id": 7000604
+        },
+        {
+          "need_point": 90,
+          "state_effect_id": 7000605
+        },
+        {
+          "need_point": 108,
+          "state_effect_id": 7000606
+        },
+        {
+          "need_point": 0,
+          "state_effect_id": 0
+        },
+        {
+          "need_point": 0,
+          "state_effect_id": 0
+        },
+        {
+          "need_point": 0,
+          "state_effect_id": 0
+        },
+        {
+          "need_point": 0,
+          "state_effect_id": 0
+        },
+        {
+          "need_point": 0,
+          "state_effect_id": 0
+        },
+        {
+          "need_point": 0,
+          "state_effect_id": 0
+        }
+      ]
+    },
+    {
+      "id": 40302,
+      "order": 24,
+      "option_rare": 7,
+      "state_effect_localkey": "Locale_Skill:statchargedamage_description",
+      "function_id": 601,
+      "HexaBiosOptionRandomData": [
+        {
+          "need_point": 18,
+          "state_effect_id": 7000901
+        },
+        {
+          "need_point": 36,
+          "state_effect_id": 7000902
+        },
+        {
+          "need_point": 54,
+          "state_effect_id": 7000903
+        },
+        {
+          "need_point": 72,
+          "state_effect_id": 7000904
+        },
+        {
+          "need_point": 90,
+          "state_effect_id": 7000905
+        },
+        {
+          "need_point": 108,
+          "state_effect_id": 7000906
+        },
+        {
+          "need_point": 0,
+          "state_effect_id": 0
+        },
+        {
+          "need_point": 0,
+          "state_effect_id": 0
+        },
+        {
+          "need_point": 0,
+          "state_effect_id": 0
+        },
+        {
+          "need_point": 0,
+          "state_effect_id": 0
+        },
+        {
+          "need_point": 0,
+          "state_effect_id": 0
+        },
+        {
+          "need_point": 0,
+          "state_effect_id": 0
+        }
+      ]
+    },
+    {
+      "id": 50101,
+      "order": 25,
+      "option_rare": 8,
+      "state_effect_localkey": "Locale_Skill:incelementdmg_description",
+      "function_id": 101,
+      "HexaBiosOptionRandomData": [
+        {
+          "need_point": 18,
+          "state_effect_id": 7000501
+        },
+        {
+          "need_point": 36,
+          "state_effect_id": 7000502
+        },
+        {
+          "need_point": 54,
+          "state_effect_id": 7000503
+        },
+        {
+          "need_point": 72,
+          "state_effect_id": 7000504
+        },
+        {
+          "need_point": 90,
+          "state_effect_id": 7000505
+        },
+        {
+          "need_point": 108,
+          "state_effect_id": 7000506
+        },
+        {
+          "need_point": 0,
+          "state_effect_id": 0
+        },
+        {
+          "need_point": 0,
+          "state_effect_id": 0
+        },
+        {
+          "need_point": 0,
+          "state_effect_id": 0
+        },
+        {
+          "need_point": 0,
+          "state_effect_id": 0
+        },
+        {
+          "need_point": 0,
+          "state_effect_id": 0
+        },
+        {
+          "need_point": 0,
+          "state_effect_id": 0
+        }
+      ]
+    },
+    {
+      "id": 50102,
+      "order": 26,
+      "option_rare": 8,
+      "state_effect_localkey": "Locale_Skill:statatk_description",
+      "function_id": 201,
+      "HexaBiosOptionRandomData": [
+        {
+          "need_point": 18,
+          "state_effect_id": 7000801
+        },
+        {
+          "need_point": 36,
+          "state_effect_id": 7000802
+        },
+        {
+          "need_point": 54,
+          "state_effect_id": 7000803
+        },
+        {
+          "need_point": 72,
+          "state_effect_id": 7000804
+        },
+        {
+          "need_point": 90,
+          "state_effect_id": 7000805
+        },
+        {
+          "need_point": 108,
+          "state_effect_id": 7000806
+        },
+        {
+          "need_point": 0,
+          "state_effect_id": 0
+        },
+        {
+          "need_point": 0,
+          "state_effect_id": 0
+        },
+        {
+          "need_point": 0,
+          "state_effect_id": 0
+        },
+        {
+          "need_point": 0,
+          "state_effect_id": 0
+        },
+        {
+          "need_point": 0,
+          "state_effect_id": 0
+        },
+        {
+          "need_point": 0,
+          "state_effect_id": 0
+        }
+      ]
+    },
+    {
+      "id": 50201,
+      "order": 27,
+      "option_rare": 8,
+      "state_effect_localkey": "Locale_Skill:statcritical_description",
+      "function_id": 301,
+      "HexaBiosOptionRandomData": [
+        {
+          "need_point": 18,
+          "state_effect_id": 7001201
+        },
+        {
+          "need_point": 36,
+          "state_effect_id": 7001202
+        },
+        {
+          "need_point": 54,
+          "state_effect_id": 7001203
+        },
+        {
+          "need_point": 72,
+          "state_effect_id": 7001204
+        },
+        {
+          "need_point": 90,
+          "state_effect_id": 7001205
+        },
+        {
+          "need_point": 108,
+          "state_effect_id": 7001206
+        },
+        {
+          "need_point": 0,
+          "state_effect_id": 0
+        },
+        {
+          "need_point": 0,
+          "state_effect_id": 0
+        },
+        {
+          "need_point": 0,
+          "state_effect_id": 0
+        },
+        {
+          "need_point": 0,
+          "state_effect_id": 0
+        },
+        {
+          "need_point": 0,
+          "state_effect_id": 0
+        },
+        {
+          "need_point": 0,
+          "state_effect_id": 0
+        }
+      ]
+    },
+    {
+      "id": 50202,
+      "order": 28,
+      "option_rare": 8,
+      "state_effect_localkey": "Locale_Skill:statdef_description",
+      "function_id": 401,
+      "HexaBiosOptionRandomData": [
+        {
+          "need_point": 18,
+          "state_effect_id": 7001301
+        },
+        {
+          "need_point": 36,
+          "state_effect_id": 7001302
+        },
+        {
+          "need_point": 54,
+          "state_effect_id": 7001303
+        },
+        {
+          "need_point": 72,
+          "state_effect_id": 7001304
+        },
+        {
+          "need_point": 90,
+          "state_effect_id": 7001305
+        },
+        {
+          "need_point": 108,
+          "state_effect_id": 7001306
+        },
+        {
+          "need_point": 0,
+          "state_effect_id": 0
+        },
+        {
+          "need_point": 0,
+          "state_effect_id": 0
+        },
+        {
+          "need_point": 0,
+          "state_effect_id": 0
+        },
+        {
+          "need_point": 0,
+          "state_effect_id": 0
+        },
+        {
+          "need_point": 0,
+          "state_effect_id": 0
+        },
+        {
+          "need_point": 0,
+          "state_effect_id": 0
+        }
+      ]
+    },
+    {
+      "id": 50301,
+      "order": 29,
+      "option_rare": 8,
+      "state_effect_localkey": "Locale_Skill:stataccuracycircle_description",
+      "function_id": 501,
+      "HexaBiosOptionRandomData": [
+        {
+          "need_point": 18,
+          "state_effect_id": 7000601
+        },
+        {
+          "need_point": 36,
+          "state_effect_id": 7000602
+        },
+        {
+          "need_point": 54,
+          "state_effect_id": 7000603
+        },
+        {
+          "need_point": 72,
+          "state_effect_id": 7000604
+        },
+        {
+          "need_point": 90,
+          "state_effect_id": 7000605
+        },
+        {
+          "need_point": 108,
+          "state_effect_id": 7000606
+        },
+        {
+          "need_point": 0,
+          "state_effect_id": 0
+        },
+        {
+          "need_point": 0,
+          "state_effect_id": 0
+        },
+        {
+          "need_point": 0,
+          "state_effect_id": 0
+        },
+        {
+          "need_point": 0,
+          "state_effect_id": 0
+        },
+        {
+          "need_point": 0,
+          "state_effect_id": 0
+        },
+        {
+          "need_point": 0,
+          "state_effect_id": 0
+        }
+      ]
+    },
+    {
+      "id": 50302,
+      "order": 30,
+      "option_rare": 8,
+      "state_effect_localkey": "Locale_Skill:statchargedamage_description",
+      "function_id": 601,
+      "HexaBiosOptionRandomData": [
+        {
+          "need_point": 18,
+          "state_effect_id": 7000901
+        },
+        {
+          "need_point": 36,
+          "state_effect_id": 7000902
+        },
+        {
+          "need_point": 54,
+          "state_effect_id": 7000903
+        },
+        {
+          "need_point": 72,
+          "state_effect_id": 7000904
+        },
+        {
+          "need_point": 90,
+          "state_effect_id": 7000905
+        },
+        {
+          "need_point": 108,
+          "state_effect_id": 7000906
+        },
+        {
+          "need_point": 0,
+          "state_effect_id": 0
+        },
+        {
+          "need_point": 0,
+          "state_effect_id": 0
+        },
+        {
+          "need_point": 0,
+          "state_effect_id": 0
+        },
+        {
+          "need_point": 0,
+          "state_effect_id": 0
+        },
+        {
+          "need_point": 0,
+          "state_effect_id": 0
+        },
+        {
+          "need_point": 0,
+          "state_effect_id": 0
+        }
+      ]
+    },
+    {
+      "id": 60101,
+      "order": 31,
+      "option_rare": 9,
+      "state_effect_localkey": "Locale_Skill:incelementdmg_description",
+      "function_id": 101,
+      "HexaBiosOptionRandomData": [
+        {
+          "need_point": 18,
+          "state_effect_id": 7000501
+        },
+        {
+          "need_point": 36,
+          "state_effect_id": 7000502
+        },
+        {
+          "need_point": 54,
+          "state_effect_id": 7000503
+        },
+        {
+          "need_point": 72,
+          "state_effect_id": 7000504
+        },
+        {
+          "need_point": 90,
+          "state_effect_id": 7000505
+        },
+        {
+          "need_point": 108,
+          "state_effect_id": 7000506
+        },
+        {
+          "need_point": 0,
+          "state_effect_id": 0
+        },
+        {
+          "need_point": 0,
+          "state_effect_id": 0
+        },
+        {
+          "need_point": 0,
+          "state_effect_id": 0
+        },
+        {
+          "need_point": 0,
+          "state_effect_id": 0
+        },
+        {
+          "need_point": 0,
+          "state_effect_id": 0
+        },
+        {
+          "need_point": 0,
+          "state_effect_id": 0
+        }
+      ]
+    },
+    {
+      "id": 60102,
+      "order": 32,
+      "option_rare": 9,
+      "state_effect_localkey": "Locale_Skill:statatk_description",
+      "function_id": 201,
+      "HexaBiosOptionRandomData": [
+        {
+          "need_point": 18,
+          "state_effect_id": 7000801
+        },
+        {
+          "need_point": 36,
+          "state_effect_id": 7000802
+        },
+        {
+          "need_point": 54,
+          "state_effect_id": 7000803
+        },
+        {
+          "need_point": 72,
+          "state_effect_id": 7000804
+        },
+        {
+          "need_point": 90,
+          "state_effect_id": 7000805
+        },
+        {
+          "need_point": 108,
+          "state_effect_id": 7000806
+        },
+        {
+          "need_point": 0,
+          "state_effect_id": 0
+        },
+        {
+          "need_point": 0,
+          "state_effect_id": 0
+        },
+        {
+          "need_point": 0,
+          "state_effect_id": 0
+        },
+        {
+          "need_point": 0,
+          "state_effect_id": 0
+        },
+        {
+          "need_point": 0,
+          "state_effect_id": 0
+        },
+        {
+          "need_point": 0,
+          "state_effect_id": 0
+        }
+      ]
+    },
+    {
+      "id": 60201,
+      "order": 33,
+      "option_rare": 9,
+      "state_effect_localkey": "Locale_Skill:statcritical_description",
+      "function_id": 301,
+      "HexaBiosOptionRandomData": [
+        {
+          "need_point": 18,
+          "state_effect_id": 7001201
+        },
+        {
+          "need_point": 36,
+          "state_effect_id": 7001202
+        },
+        {
+          "need_point": 54,
+          "state_effect_id": 7001203
+        },
+        {
+          "need_point": 72,
+          "state_effect_id": 7001204
+        },
+        {
+          "need_point": 90,
+          "state_effect_id": 7001205
+        },
+        {
+          "need_point": 108,
+          "state_effect_id": 7001206
+        },
+        {
+          "need_point": 0,
+          "state_effect_id": 0
+        },
+        {
+          "need_point": 0,
+          "state_effect_id": 0
+        },
+        {
+          "need_point": 0,
+          "state_effect_id": 0
+        },
+        {
+          "need_point": 0,
+          "state_effect_id": 0
+        },
+        {
+          "need_point": 0,
+          "state_effect_id": 0
+        },
+        {
+          "need_point": 0,
+          "state_effect_id": 0
+        }
+      ]
+    },
+    {
+      "id": 60202,
+      "order": 34,
+      "option_rare": 9,
+      "state_effect_localkey": "Locale_Skill:statdef_description",
+      "function_id": 401,
+      "HexaBiosOptionRandomData": [
+        {
+          "need_point": 18,
+          "state_effect_id": 7001301
+        },
+        {
+          "need_point": 36,
+          "state_effect_id": 7001302
+        },
+        {
+          "need_point": 54,
+          "state_effect_id": 7001303
+        },
+        {
+          "need_point": 72,
+          "state_effect_id": 7001304
+        },
+        {
+          "need_point": 90,
+          "state_effect_id": 7001305
+        },
+        {
+          "need_point": 108,
+          "state_effect_id": 7001306
+        },
+        {
+          "need_point": 0,
+          "state_effect_id": 0
+        },
+        {
+          "need_point": 0,
+          "state_effect_id": 0
+        },
+        {
+          "need_point": 0,
+          "state_effect_id": 0
+        },
+        {
+          "need_point": 0,
+          "state_effect_id": 0
+        },
+        {
+          "need_point": 0,
+          "state_effect_id": 0
+        },
+        {
+          "need_point": 0,
+          "state_effect_id": 0
+        }
+      ]
+    },
+    {
+      "id": 60301,
+      "order": 35,
+      "option_rare": 9,
+      "state_effect_localkey": "Locale_Skill:stataccuracycircle_description",
+      "function_id": 501,
+      "HexaBiosOptionRandomData": [
+        {
+          "need_point": 18,
+          "state_effect_id": 7000601
+        },
+        {
+          "need_point": 36,
+          "state_effect_id": 7000602
+        },
+        {
+          "need_point": 54,
+          "state_effect_id": 7000603
+        },
+        {
+          "need_point": 72,
+          "state_effect_id": 7000604
+        },
+        {
+          "need_point": 90,
+          "state_effect_id": 7000605
+        },
+        {
+          "need_point": 108,
+          "state_effect_id": 7000606
+        },
+        {
+          "need_point": 0,
+          "state_effect_id": 0
+        },
+        {
+          "need_point": 0,
+          "state_effect_id": 0
+        },
+        {
+          "need_point": 0,
+          "state_effect_id": 0
+        },
+        {
+          "need_point": 0,
+          "state_effect_id": 0
+        },
+        {
+          "need_point": 0,
+          "state_effect_id": 0
+        },
+        {
+          "need_point": 0,
+          "state_effect_id": 0
+        }
+      ]
+    },
+    {
+      "id": 60302,
+      "order": 36,
+      "option_rare": 9,
+      "state_effect_localkey": "Locale_Skill:statchargedamage_description",
+      "function_id": 601,
+      "HexaBiosOptionRandomData": [
+        {
+          "need_point": 18,
+          "state_effect_id": 7000901
+        },
+        {
+          "need_point": 36,
+          "state_effect_id": 7000902
+        },
+        {
+          "need_point": 54,
+          "state_effect_id": 7000903
+        },
+        {
+          "need_point": 72,
+          "state_effect_id": 7000904
+        },
+        {
+          "need_point": 90,
+          "state_effect_id": 7000905
+        },
+        {
+          "need_point": 108,
+          "state_effect_id": 7000906
+        },
+        {
+          "need_point": 0,
+          "state_effect_id": 0
+        },
+        {
+          "need_point": 0,
+          "state_effect_id": 0
+        },
+        {
+          "need_point": 0,
+          "state_effect_id": 0
+        },
+        {
+          "need_point": 0,
+          "state_effect_id": 0
+        },
+        {
+          "need_point": 0,
+          "state_effect_id": 0
+        },
+        {
+          "need_point": 0,
+          "state_effect_id": 0
+        }
+      ]
+    }
+  ]
+}

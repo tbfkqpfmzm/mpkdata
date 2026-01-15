@@ -1,0 +1,149 @@
+{
+  "version": "0.0.1",
+  "records": [
+    {
+      "id": 101,
+      "name_localkey": "Locale_Item:hexa_block_name_c",
+      "description_localkey": "Locale_Item:hexa_block_desc",
+      "block_type": "Type_C",
+      "block_rare": 4,
+      "block_group": 101
+    },
+    {
+      "id": 102,
+      "name_localkey": "Locale_Item:hexa_block_name_i",
+      "description_localkey": "Locale_Item:hexa_block_desc",
+      "block_type": "Type_I",
+      "block_rare": 4,
+      "block_group": 102
+    },
+    {
+      "id": 103,
+      "name_localkey": "Locale_Item:hexa_block_name_a",
+      "description_localkey": "Locale_Item:hexa_block_desc",
+      "block_type": "Type_A",
+      "block_rare": 4,
+      "block_group": 103
+    },
+    {
+      "id": 201,
+      "name_localkey": "Locale_Item:hexa_block_name_c",
+      "description_localkey": "Locale_Item:hexa_block_desc",
+      "block_type": "Type_C",
+      "block_rare": 5,
+      "block_group": 201
+    },
+    {
+      "id": 202,
+      "name_localkey": "Locale_Item:hexa_block_name_i",
+      "description_localkey": "Locale_Item:hexa_block_desc",
+      "block_type": "Type_I",
+      "block_rare": 5,
+      "block_group": 202
+    },
+    {
+      "id": 203,
+      "name_localkey": "Locale_Item:hexa_block_name_a",
+      "description_localkey": "Locale_Item:hexa_block_desc",
+      "block_type": "Type_A",
+      "block_rare": 5,
+      "block_group": 203
+    },
+    {
+      "id": 301,
+      "name_localkey": "Locale_Item:hexa_block_name_c",
+      "description_localkey": "Locale_Item:hexa_block_desc",
+      "block_type": "Type_C",
+      "block_rare": 6,
+      "block_group": 301
+    },
+    {
+      "id": 302,
+      "name_localkey": "Locale_Item:hexa_block_name_i",
+      "description_localkey": "Locale_Item:hexa_block_desc",
+      "block_type": "Type_I",
+      "block_rare": 6,
+      "block_group": 302
+    },
+    {
+      "id": 303,
+      "name_localkey": "Locale_Item:hexa_block_name_a",
+      "description_localkey": "Locale_Item:hexa_block_desc",
+      "block_type": "Type_A",
+      "block_rare": 6,
+      "block_group": 303
+    },
+    {
+      "id": 401,
+      "name_localkey": "Locale_Item:hexa_block_name_c",
+      "description_localkey": "Locale_Item:hexa_block_desc",
+      "block_type": "Type_C",
+      "block_rare": 7,
+      "block_group": 401
+    },
+    {
+      "id": 402,
+      "name_localkey": "Locale_Item:hexa_block_name_i",
+      "description_localkey": "Locale_Item:hexa_block_desc",
+      "block_type": "Type_I",
+      "block_rare": 7,
+      "block_group": 402
+    },
+    {
+      "id": 403,
+      "name_localkey": "Locale_Item:hexa_block_name_a",
+      "description_localkey": "Locale_Item:hexa_block_desc",
+      "block_type": "Type_A",
+      "block_rare": 7,
+      "block_group": 403
+    },
+    {
+      "id": 501,
+      "name_localkey": "Locale_Item:hexa_block_name_c",
+      "description_localkey": "Locale_Item:hexa_block_desc",
+      "block_type": "Type_C",
+      "block_rare": 8,
+      "block_group": 501
+    },
+    {
+      "id": 502,
+      "name_localkey": "Locale_Item:hexa_block_name_i",
+      "description_localkey": "Locale_Item:hexa_block_desc",
+      "block_type": "Type_I",
+      "block_rare": 8,
+      "block_group": 502
+    },
+    {
+      "id": 503,
+      "name_localkey": "Locale_Item:hexa_block_name_a",
+      "description_localkey": "Locale_Item:hexa_block_desc",
+      "block_type": "Type_A",
+      "block_rare": 8,
+      "block_group": 503
+    },
+    {
+      "id": 601,
+      "name_localkey": "Locale_Item:hexa_block_name_c",
+      "description_localkey": "Locale_Item:hexa_block_desc",
+      "block_type": "Type_C",
+      "block_rare": 9,
+      "block_group": 601
+    },
+    {
+      "id": 602,
+      "name_localkey": "Locale_Item:hexa_block_name_i",
+      "description_localkey": "Locale_Item:hexa_block_desc",
+      "block_type": "Type_I",
+      "block_rare": 9,
+      "block_group": 602
+    },
+    {
+      "id": 603,
+      "name_localkey": "Locale_Item:hexa_block_name_a",
+      "description_localkey": "Locale_Item:hexa_block_desc",
+      "block_type": "Type_A",
+      "block_rare": 9,
+      "block_group": 603
+    }
+  ]
+}

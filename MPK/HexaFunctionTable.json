@@ -1,0 +1,209 @@
+{
+  "version": "0.0.1",
+  "records": [
+    {
+      "id": 101,
+      "resource_id": "hexacode_function_atk",
+      "bios_type": "MAIN",
+      "HexaFunctionPointData": [
+        {
+          "point_rare": 0
+        },
+        {
+          "point_rare": 0
+        },
+        {
+          "point_rare": 0
+        },
+        {
+          "point_rare": 1
+        },
+        {
+          "point_rare": 2
+        },
+        {
+          "point_rare": 3
+        },
+        {
+          "point_rare": 4
+        },
+        {
+          "point_rare": 5
+        },
+        {
+          "point_rare": 6
+        }
+      ]
+    },
+    {
+      "id": 201,
+      "resource_id": "hexacode_function_def",
+      "bios_type": "MAIN",
+      "HexaFunctionPointData": [
+        {
+          "point_rare": 0
+        },
+        {
+          "point_rare": 0
+        },
+        {
+          "point_rare": 0
+        },
+        {
+          "point_rare": 1
+        },
+        {
+          "point_rare": 2
+        },
+        {
+          "point_rare": 3
+        },
+        {
+          "point_rare": 4
+        },
+        {
+          "point_rare": 5
+        },
+        {
+          "point_rare": 6
+        }
+      ]
+    },
+    {
+      "id": 301,
+      "resource_id": "hexacode_function_hp",
+      "bios_type": "SUB_01",
+      "HexaFunctionPointData": [
+        {
+          "point_rare": 0
+        },
+        {
+          "point_rare": 0
+        },
+        {
+          "point_rare": 0
+        },
+        {
+          "point_rare": 1
+        },
+        {
+          "point_rare": 2
+        },
+        {
+          "point_rare": 3
+        },
+        {
+          "point_rare": 4
+        },
+        {
+          "point_rare": 5
+        },
+        {
+          "point_rare": 6
+        }
+      ]
+    },
+    {
+      "id": 401,
+      "resource_id": "hexacode_function_crit_rate",
+      "bios_type": "SUB_01",
+      "HexaFunctionPointData": [
+        {
+          "point_rare": 0
+        },
+        {
+          "point_rare": 0
+        },
+        {
+          "point_rare": 0
+        },
+        {
+          "point_rare": 1
+        },
+        {
+          "point_rare": 2
+        },
+        {
+          "point_rare": 3
+        },
+        {
+          "point_rare": 4
+        },
+        {
+          "point_rare": 5
+        },
+        {
+          "point_rare": 6
+        }
+      ]
+    },
+    {
+      "id": 501,
+      "resource_id": "hexacode_function_crit_dem",
+      "bios_type": "SUB_02",
+      "HexaFunctionPointData": [
+        {
+          "point_rare": 0
+        },
+        {
+          "point_rare": 0
+        },
+        {
+          "point_rare": 0
+        },
+        {
+          "point_rare": 1
+        },
+        {
+          "point_rare": 2
+        },
+        {
+          "point_rare": 3
+        },
+        {
+          "point_rare": 4
+        },
+        {
+          "point_rare": 5
+        },
+        {
+          "point_rare": 6
+        }
+      ]
+    },
+    {
+      "id": 601,
+      "resource_id": "hexacode_function_chg_dem",
+      "bios_type": "SUB_02",
+      "HexaFunctionPointData": [
+        {
+          "point_rare": 0
+        },
+        {
+          "point_rare": 0
+        },
+        {
+          "point_rare": 0
+        },
+        {
+          "point_rare": 1
+        },
+        {
+          "point_rare": 2
+        },
+        {
+          "point_rare": 3
+        },
+        {
+          "point_rare": 4
+        },
+        {
+          "point_rare": 5
+        },
+        {
+          "point_rare": 6
+        }
+      ]
+    }
+  ]
+}

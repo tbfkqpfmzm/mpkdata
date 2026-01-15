@@ -1,0 +1,941 @@
+{
+  "version": "0.0.1",
+  "records": [
+    {
+      "id": 10101,
+      "option_group": 101,
+      "HexaBiosOptionRandomData": [
+        {
+          "option_id": 10101,
+          "ratio": 10
+        },
+        {
+          "option_id": 10102,
+          "ratio": 10
+        },
+        {
+          "option_id": 0,
+          "ratio": 0
+        },
+        {
+          "option_id": 0,
+          "ratio": 0
+        },
+        {
+          "option_id": 0,
+          "ratio": 0
+        }
+      ]
+    },
+    {
+      "id": 10201,
+      "option_group": 102,
+      "HexaBiosOptionRandomData": [
+        {
+          "option_id": 10201,
+          "ratio": 10
+        },
+        {
+          "option_id": 10202,
+          "ratio": 10
+        },
+        {
+          "option_id": 0,
+          "ratio": 0
+        },
+        {
+          "option_id": 0,
+          "ratio": 0
+        },
+        {
+          "option_id": 0,
+          "ratio": 0
+        }
+      ]
+    },
+    {
+      "id": 10301,
+      "option_group": 103,
+      "HexaBiosOptionRandomData": [
+        {
+          "option_id": 10301,
+          "ratio": 10
+        },
+        {
+          "option_id": 10302,
+          "ratio": 10
+        },
+        {
+          "option_id": 0,
+          "ratio": 0
+        },
+        {
+          "option_id": 0,
+          "ratio": 0
+        },
+        {
+          "option_id": 0,
+          "ratio": 0
+        }
+      ]
+    },
+    {
+      "id": 20101,
+      "option_group": 201,
+      "HexaBiosOptionRandomData": [
+        {
+          "option_id": 20101,
+          "ratio": 10
+        },
+        {
+          "option_id": 20102,
+          "ratio": 10
+        },
+        {
+          "option_id": 0,
+          "ratio": 0
+        },
+        {
+          "option_id": 0,
+          "ratio": 0
+        },
+        {
+          "option_id": 0,
+          "ratio": 0
+        }
+      ]
+    },
+    {
+      "id": 20201,
+      "option_group": 202,
+      "HexaBiosOptionRandomData": [
+        {
+          "option_id": 10101,
+          "ratio": 20
+        },
+        {
+          "option_id": 10102,
+          "ratio": 20
+        },
+        {
+          "option_id": 0,
+          "ratio": 0
+        },
+        {
+          "option_id": 0,
+          "ratio": 0
+        },
+        {
+          "option_id": 0,
+          "ratio": 0
+        }
+      ]
+    },
+    {
+      "id": 20202,
+      "option_group": 202,
+      "HexaBiosOptionRandomData": [
+        {
+          "option_id": 20201,
+          "ratio": 10
+        },
+        {
+          "option_id": 20202,
+          "ratio": 10
+        },
+        {
+          "option_id": 0,
+          "ratio": 0
+        },
+        {
+          "option_id": 0,
+          "ratio": 0
+        },
+        {
+          "option_id": 0,
+          "ratio": 0
+        }
+      ]
+    },
+    {
+      "id": 20301,
+      "option_group": 203,
+      "HexaBiosOptionRandomData": [
+        {
+          "option_id": 10301,
+          "ratio": 20
+        },
+        {
+          "option_id": 10302,
+          "ratio": 20
+        },
+        {
+          "option_id": 0,
+          "ratio": 0
+        },
+        {
+          "option_id": 0,
+          "ratio": 0
+        },
+        {
+          "option_id": 0,
+          "ratio": 0
+        }
+      ]
+    },
+    {
+      "id": 20302,
+      "option_group": 203,
+      "HexaBiosOptionRandomData": [
+        {
+          "option_id": 20301,
+          "ratio": 10
+        },
+        {
+          "option_id": 20302,
+          "ratio": 10
+        },
+        {
+          "option_id": 0,
+          "ratio": 0
+        },
+        {
+          "option_id": 0,
+          "ratio": 0
+        },
+        {
+          "option_id": 0,
+          "ratio": 0
+        }
+      ]
+    },
+    {
+      "id": 30101,
+      "option_group": 301,
+      "HexaBiosOptionRandomData": [
+        {
+          "option_id": 30101,
+          "ratio": 10
+        },
+        {
+          "option_id": 30102,
+          "ratio": 10
+        },
+        {
+          "option_id": 0,
+          "ratio": 0
+        },
+        {
+          "option_id": 0,
+          "ratio": 0
+        },
+        {
+          "option_id": 0,
+          "ratio": 0
+        }
+      ]
+    },
+    {
+      "id": 30201,
+      "option_group": 302,
+      "HexaBiosOptionRandomData": [
+        {
+          "option_id": 10101,
+          "ratio": 30
+        },
+        {
+          "option_id": 10102,
+          "ratio": 30
+        },
+        {
+          "option_id": 0,
+          "ratio": 0
+        },
+        {
+          "option_id": 0,
+          "ratio": 0
+        },
+        {
+          "option_id": 0,
+          "ratio": 0
+        }
+      ]
+    },
+    {
+      "id": 30202,
+      "option_group": 302,
+      "HexaBiosOptionRandomData": [
+        {
+          "option_id": 20201,
+          "ratio": 20
+        },
+        {
+          "option_id": 20202,
+          "ratio": 20
+        },
+        {
+          "option_id": 0,
+          "ratio": 0
+        },
+        {
+          "option_id": 0,
+          "ratio": 0
+        },
+        {
+          "option_id": 0,
+          "ratio": 0
+        }
+      ]
+    },
+    {
+      "id": 30203,
+      "option_group": 302,
+      "HexaBiosOptionRandomData": [
+        {
+          "option_id": 30201,
+          "ratio": 10
+        },
+        {
+          "option_id": 30202,
+          "ratio": 10
+        },
+        {
+          "option_id": 0,
+          "ratio": 0
+        },
+        {
+          "option_id": 0,
+          "ratio": 0
+        },
+        {
+          "option_id": 0,
+          "ratio": 0
+        }
+      ]
+    },
+    {
+      "id": 30301,
+      "option_group": 303,
+      "HexaBiosOptionRandomData": [
+        {
+          "option_id": 10301,
+          "ratio": 30
+        },
+        {
+          "option_id": 10302,
+          "ratio": 30
+        },
+        {
+          "option_id": 0,
+          "ratio": 0
+        },
+        {
+          "option_id": 0,
+          "ratio": 0
+        },
+        {
+          "option_id": 0,
+          "ratio": 0
+        }
+      ]
+    },
+    {
+      "id": 30302,
+      "option_group": 303,
+      "HexaBiosOptionRandomData": [
+        {
+          "option_id": 20301,
+          "ratio": 20
+        },
+        {
+          "option_id": 20302,
+          "ratio": 20
+        },
+        {
+          "option_id": 0,
+          "ratio": 0
+        },
+        {
+          "option_id": 0,
+          "ratio": 0
+        },
+        {
+          "option_id": 0,
+          "ratio": 0
+        }
+      ]
+    },
+    {
+      "id": 30303,
+      "option_group": 303,
+      "HexaBiosOptionRandomData": [
+        {
+          "option_id": 30301,
+          "ratio": 10
+        },
+        {
+          "option_id": 30302,
+          "ratio": 10
+        },
+        {
+          "option_id": 0,
+          "ratio": 0
+        },
+        {
+          "option_id": 0,
+          "ratio": 0
+        },
+        {
+          "option_id": 0,
+          "ratio": 0
+        }
+      ]
+    },
+    {
+      "id": 40101,
+      "option_group": 401,
+      "HexaBiosOptionRandomData": [
+        {
+          "option_id": 40101,
+          "ratio": 10
+        },
+        {
+          "option_id": 40102,
+          "ratio": 10
+        },
+        {
+          "option_id": 0,
+          "ratio": 0
+        },
+        {
+          "option_id": 0,
+          "ratio": 0
+        },
+        {
+          "option_id": 0,
+          "ratio": 0
+        }
+      ]
+    },
+    {
+      "id": 40201,
+      "option_group": 402,
+      "HexaBiosOptionRandomData": [
+        {
+          "option_id": 20201,
+          "ratio": 30
+        },
+        {
+          "option_id": 20202,
+          "ratio": 30
+        },
+        {
+          "option_id": 0,
+          "ratio": 0
+        },
+        {
+          "option_id": 0,
+          "ratio": 0
+        },
+        {
+          "option_id": 0,
+          "ratio": 0
+        }
+      ]
+    },
+    {
+      "id": 40202,
+      "option_group": 402,
+      "HexaBiosOptionRandomData": [
+        {
+          "option_id": 30201,
+          "ratio": 20
+        },
+        {
+          "option_id": 30202,
+          "ratio": 20
+        },
+        {
+          "option_id": 0,
+          "ratio": 0
+        },
+        {
+          "option_id": 0,
+          "ratio": 0
+        },
+        {
+          "option_id": 0,
+          "ratio": 0
+        }
+      ]
+    },
+    {
+      "id": 40203,
+      "option_group": 402,
+      "HexaBiosOptionRandomData": [
+        {
+          "option_id": 40201,
+          "ratio": 10
+        },
+        {
+          "option_id": 40202,
+          "ratio": 10
+        },
+        {
+          "option_id": 0,
+          "ratio": 0
+        },
+        {
+          "option_id": 0,
+          "ratio": 0
+        },
+        {
+          "option_id": 0,
+          "ratio": 0
+        }
+      ]
+    },
+    {
+      "id": 40301,
+      "option_group": 403,
+      "HexaBiosOptionRandomData": [
+        {
+          "option_id": 20301,
+          "ratio": 30
+        },
+        {
+          "option_id": 20302,
+          "ratio": 30
+        },
+        {
+          "option_id": 0,
+          "ratio": 0
+        },
+        {
+          "option_id": 0,
+          "ratio": 0
+        },
+        {
+          "option_id": 0,
+          "ratio": 0
+        }
+      ]
+    },
+    {
+      "id": 40302,
+      "option_group": 403,
+      "HexaBiosOptionRandomData": [
+        {
+          "option_id": 30301,
+          "ratio": 20
+        },
+        {
+          "option_id": 30302,
+          "ratio": 20
+        },
+        {
+          "option_id": 0,
+          "ratio": 0
+        },
+        {
+          "option_id": 0,
+          "ratio": 0
+        },
+        {
+          "option_id": 0,
+          "ratio": 0
+        }
+      ]
+    },
+    {
+      "id": 40303,
+      "option_group": 403,
+      "HexaBiosOptionRandomData": [
+        {
+          "option_id": 40301,
+          "ratio": 10
+        },
+        {
+          "option_id": 40302,
+          "ratio": 10
+        },
+        {
+          "option_id": 0,
+          "ratio": 0
+        },
+        {
+          "option_id": 0,
+          "ratio": 0
+        },
+        {
+          "option_id": 0,
+          "ratio": 0
+        }
+      ]
+    },
+    {
+      "id": 50101,
+      "option_group": 501,
+      "HexaBiosOptionRandomData": [
+        {
+          "option_id": 50101,
+          "ratio": 10
+        },
+        {
+          "option_id": 50102,
+          "ratio": 10
+        },
+        {
+          "option_id": 0,
+          "ratio": 0
+        },
+        {
+          "option_id": 0,
+          "ratio": 0
+        },
+        {
+          "option_id": 0,
+          "ratio": 0
+        }
+      ]
+    },
+    {
+      "id": 50201,
+      "option_group": 502,
+      "HexaBiosOptionRandomData": [
+        {
+          "option_id": 30201,
+          "ratio": 30
+        },
+        {
+          "option_id": 30202,
+          "ratio": 30
+        },
+        {
+          "option_id": 0,
+          "ratio": 0
+        },
+        {
+          "option_id": 0,
+          "ratio": 0
+        },
+        {
+          "option_id": 0,
+          "ratio": 0
+        }
+      ]
+    },
+    {
+      "id": 50202,
+      "option_group": 502,
+      "HexaBiosOptionRandomData": [
+        {
+          "option_id": 40201,
+          "ratio": 20
+        },
+        {
+          "option_id": 40202,
+          "ratio": 20
+        },
+        {
+          "option_id": 0,
+          "ratio": 0
+        },
+        {
+          "option_id": 0,
+          "ratio": 0
+        },
+        {
+          "option_id": 0,
+          "ratio": 0
+        }
+      ]
+    },
+    {
+      "id": 50203,
+      "option_group": 502,
+      "HexaBiosOptionRandomData": [
+        {
+          "option_id": 50201,
+          "ratio": 10
+        },
+        {
+          "option_id": 50202,
+          "ratio": 10
+        },
+        {
+          "option_id": 0,
+          "ratio": 0
+        },
+        {
+          "option_id": 0,
+          "ratio": 0
+        },
+        {
+          "option_id": 0,
+          "ratio": 0
+        }
+      ]
+    },
+    {
+      "id": 50301,
+      "option_group": 503,
+      "HexaBiosOptionRandomData": [
+        {
+          "option_id": 30301,
+          "ratio": 30
+        },
+        {
+          "option_id": 30302,
+          "ratio": 30
+        },
+        {
+          "option_id": 0,
+          "ratio": 0
+        },
+        {
+          "option_id": 0,
+          "ratio": 0
+        },
+        {
+          "option_id": 0,
+          "ratio": 0
+        }
+      ]
+    },
+    {
+      "id": 50302,
+      "option_group": 503,
+      "HexaBiosOptionRandomData": [
+        {
+          "option_id": 40301,
+          "ratio": 20
+        },
+        {
+          "option_id": 40302,
+          "ratio": 20
+        },
+        {
+          "option_id": 0,
+          "ratio": 0
+        },
+        {
+          "option_id": 0,
+          "ratio": 0
+        },
+        {
+          "option_id": 0,
+          "ratio": 0
+        }
+      ]
+    },
+    {
+      "id": 50303,
+      "option_group": 503,
+      "HexaBiosOptionRandomData": [
+        {
+          "option_id": 50301,
+          "ratio": 10
+        },
+        {
+          "option_id": 50302,
+          "ratio": 10
+        },
+        {
+          "option_id": 0,
+          "ratio": 0
+        },
+        {
+          "option_id": 0,
+          "ratio": 0
+        },
+        {
+          "option_id": 0,
+          "ratio": 0
+        }
+      ]
+    },
+    {
+      "id": 60101,
+      "option_group": 601,
+      "HexaBiosOptionRandomData": [
+        {
+          "option_id": 60101,
+          "ratio": 10
+        },
+        {
+          "option_id": 60102,
+          "ratio": 10
+        },
+        {
+          "option_id": 0,
+          "ratio": 0
+        },
+        {
+          "option_id": 0,
+          "ratio": 0
+        },
+        {
+          "option_id": 0,
+          "ratio": 0
+        }
+      ]
+    },
+    {
+      "id": 60201,
+      "option_group": 602,
+      "HexaBiosOptionRandomData": [
+        {
+          "option_id": 40201,
+          "ratio": 30
+        },
+        {
+          "option_id": 40202,
+          "ratio": 30
+        },
+        {
+          "option_id": 0,
+          "ratio": 0
+        },
+        {
+          "option_id": 0,
+          "ratio": 0
+        },
+        {
+          "option_id": 0,
+          "ratio": 0
+        }
+      ]
+    },
+    {
+      "id": 60202,
+      "option_group": 602,
+      "HexaBiosOptionRandomData": [
+        {
+          "option_id": 50201,
+          "ratio": 20
+        },
+        {
+          "option_id": 50202,
+          "ratio": 20
+        },
+        {
+          "option_id": 0,
+          "ratio": 0
+        },
+        {
+          "option_id": 0,
+          "ratio": 0
+        },
+        {
+          "option_id": 0,
+          "ratio": 0
+        }
+      ]
+    },
+    {
+      "id": 60203,
+      "option_group": 602,
+      "HexaBiosOptionRandomData": [
+        {
+          "option_id": 60201,
+          "ratio": 10
+        },
+        {
+          "option_id": 60202,
+          "ratio": 10
+        },
+        {
+          "option_id": 0,
+          "ratio": 0
+        },
+        {
+          "option_id": 0,
+          "ratio": 0
+        },
+        {
+          "option_id": 0,
+          "ratio": 0
+        }
+      ]
+    },
+    {
+      "id": 60301,
+      "option_group": 603,
+      "HexaBiosOptionRandomData": [
+        {
+          "option_id": 40301,
+          "ratio": 30
+        },
+        {
+          "option_id": 40302,
+          "ratio": 30
+        },
+        {
+          "option_id": 0,
+          "ratio": 0
+        },
+        {
+          "option_id": 0,
+          "ratio": 0
+        },
+        {
+          "option_id": 0,
+          "ratio": 0
+        }
+      ]
+    },
+    {
+      "id": 60302,
+      "option_group": 603,
+      "HexaBiosOptionRandomData": [
+        {
+          "option_id": 50301,
+          "ratio": 20
+        },
+        {
+          "option_id": 50302,
+          "ratio": 20
+        },
+        {
+          "option_id": 0,
+          "ratio": 0
+        },
+        {
+          "option_id": 0,
+          "ratio": 0
+        },
+        {
+          "option_id": 0,
+          "ratio": 0
+        }
+      ]
+    },
+    {
+      "id": 60303,
+      "option_group": 603,
+      "HexaBiosOptionRandomData": [
+        {
+          "option_id": 60301,
+          "ratio": 10
+        },
+        {
+          "option_id": 60302,
+          "ratio": 10
+        },
+        {
+          "option_id": 0,
+          "ratio": 0
+        },
+        {
+          "option_id": 0,
+          "ratio": 0
+        },
+        {
+          "option_id": 0,
+          "ratio": 0
+        }
+      ]
+    }
+  ]
+}

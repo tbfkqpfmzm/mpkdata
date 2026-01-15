@@ -1,0 +1,512 @@
+{
+  "version": "0.0.1",
+  "records": [
+    {
+      "id": 1,
+      "slot_lock": false,
+      "lock_group": 0,
+      "currency_id": 0,
+      "currency_value": 0,
+      "HexaBoardSlotNumberData": [
+        {
+          "slot_no": 1
+        },
+        {
+          "slot_no": 2
+        },
+        {
+          "slot_no": 3
+        },
+        {
+          "slot_no": 4
+        },
+        {
+          "slot_no": 5
+        },
+        {
+          "slot_no": 0
+        },
+        {
+          "slot_no": 0
+        },
+        {
+          "slot_no": 0
+        },
+        {
+          "slot_no": 0
+        },
+        {
+          "slot_no": 0
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "slot_lock": false,
+      "lock_group": 0,
+      "currency_id": 0,
+      "currency_value": 0,
+      "HexaBoardSlotNumberData": [
+        {
+          "slot_no": 6
+        },
+        {
+          "slot_no": 7
+        },
+        {
+          "slot_no": 8
+        },
+        {
+          "slot_no": 9
+        },
+        {
+          "slot_no": 10
+        },
+        {
+          "slot_no": 0
+        },
+        {
+          "slot_no": 0
+        },
+        {
+          "slot_no": 0
+        },
+        {
+          "slot_no": 0
+        },
+        {
+          "slot_no": 0
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "slot_lock": false,
+      "lock_group": 0,
+      "currency_id": 0,
+      "currency_value": 0,
+      "HexaBoardSlotNumberData": [
+        {
+          "slot_no": 12
+        },
+        {
+          "slot_no": 14
+        },
+        {
+          "slot_no": 15
+        },
+        {
+          "slot_no": 16
+        },
+        {
+          "slot_no": 18
+        },
+        {
+          "slot_no": 0
+        },
+        {
+          "slot_no": 0
+        },
+        {
+          "slot_no": 0
+        },
+        {
+          "slot_no": 0
+        },
+        {
+          "slot_no": 0
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "slot_lock": true,
+      "lock_group": 1,
+      "currency_id": 15000,
+      "currency_value": 6,
+      "HexaBoardSlotNumberData": [
+        {
+          "slot_no": 13
+        },
+        {
+          "slot_no": 29
+        },
+        {
+          "slot_no": 30
+        },
+        {
+          "slot_no": 0
+        },
+        {
+          "slot_no": 0
+        },
+        {
+          "slot_no": 0
+        },
+        {
+          "slot_no": 0
+        },
+        {
+          "slot_no": 0
+        },
+        {
+          "slot_no": 0
+        },
+        {
+          "slot_no": 0
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "slot_lock": true,
+      "lock_group": 2,
+      "currency_id": 15000,
+      "currency_value": 12,
+      "HexaBoardSlotNumberData": [
+        {
+          "slot_no": 19
+        },
+        {
+          "slot_no": 20
+        },
+        {
+          "slot_no": 21
+        },
+        {
+          "slot_no": 0
+        },
+        {
+          "slot_no": 0
+        },
+        {
+          "slot_no": 0
+        },
+        {
+          "slot_no": 0
+        },
+        {
+          "slot_no": 0
+        },
+        {
+          "slot_no": 0
+        },
+        {
+          "slot_no": 0
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "slot_lock": true,
+      "lock_group": 3,
+      "currency_id": 15000,
+      "currency_value": 45,
+      "HexaBoardSlotNumberData": [
+        {
+          "slot_no": 17
+        },
+        {
+          "slot_no": 32
+        },
+        {
+          "slot_no": 33
+        },
+        {
+          "slot_no": 0
+        },
+        {
+          "slot_no": 0
+        },
+        {
+          "slot_no": 0
+        },
+        {
+          "slot_no": 0
+        },
+        {
+          "slot_no": 0
+        },
+        {
+          "slot_no": 0
+        },
+        {
+          "slot_no": 0
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "slot_lock": true,
+      "lock_group": 4,
+      "currency_id": 15000,
+      "currency_value": 45,
+      "HexaBoardSlotNumberData": [
+        {
+          "slot_no": 11
+        },
+        {
+          "slot_no": 23
+        },
+        {
+          "slot_no": 24
+        },
+        {
+          "slot_no": 0
+        },
+        {
+          "slot_no": 0
+        },
+        {
+          "slot_no": 0
+        },
+        {
+          "slot_no": 0
+        },
+        {
+          "slot_no": 0
+        },
+        {
+          "slot_no": 0
+        },
+        {
+          "slot_no": 0
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "slot_lock": true,
+      "lock_group": 5,
+      "currency_id": 15000,
+      "currency_value": 135,
+      "HexaBoardSlotNumberData": [
+        {
+          "slot_no": 26
+        },
+        {
+          "slot_no": 27
+        },
+        {
+          "slot_no": 28
+        },
+        {
+          "slot_no": 0
+        },
+        {
+          "slot_no": 0
+        },
+        {
+          "slot_no": 0
+        },
+        {
+          "slot_no": 0
+        },
+        {
+          "slot_no": 0
+        },
+        {
+          "slot_no": 0
+        },
+        {
+          "slot_no": 0
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "slot_lock": true,
+      "lock_group": 6,
+      "currency_id": 15000,
+      "currency_value": 135,
+      "HexaBoardSlotNumberData": [
+        {
+          "slot_no": 35
+        },
+        {
+          "slot_no": 36
+        },
+        {
+          "slot_no": 37
+        },
+        {
+          "slot_no": 0
+        },
+        {
+          "slot_no": 0
+        },
+        {
+          "slot_no": 0
+        },
+        {
+          "slot_no": 0
+        },
+        {
+          "slot_no": 0
+        },
+        {
+          "slot_no": 0
+        },
+        {
+          "slot_no": 0
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "slot_lock": true,
+      "lock_group": 7,
+      "currency_id": 15000,
+      "currency_value": 135,
+      "HexaBoardSlotNumberData": [
+        {
+          "slot_no": 31
+        },
+        {
+          "slot_no": 42
+        },
+        {
+          "slot_no": 43
+        },
+        {
+          "slot_no": 0
+        },
+        {
+          "slot_no": 0
+        },
+        {
+          "slot_no": 0
+        },
+        {
+          "slot_no": 0
+        },
+        {
+          "slot_no": 0
+        },
+        {
+          "slot_no": 0
+        },
+        {
+          "slot_no": 0
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "slot_lock": true,
+      "lock_group": 8,
+      "currency_id": 15000,
+      "currency_value": 300,
+      "HexaBoardSlotNumberData": [
+        {
+          "slot_no": 22
+        },
+        {
+          "slot_no": 38
+        },
+        {
+          "slot_no": 39
+        },
+        {
+          "slot_no": 0
+        },
+        {
+          "slot_no": 0
+        },
+        {
+          "slot_no": 0
+        },
+        {
+          "slot_no": 0
+        },
+        {
+          "slot_no": 0
+        },
+        {
+          "slot_no": 0
+        },
+        {
+          "slot_no": 0
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "slot_lock": true,
+      "lock_group": 9,
+      "currency_id": 15000,
+      "currency_value": 300,
+      "HexaBoardSlotNumberData": [
+        {
+          "slot_no": 25
+        },
+        {
+          "slot_no": 40
+        },
+        {
+          "slot_no": 41
+        },
+        {
+          "slot_no": 0
+        },
+        {
+          "slot_no": 0
+        },
+        {
+          "slot_no": 0
+        },
+        {
+          "slot_no": 0
+        },
+        {
+          "slot_no": 0
+        },
+        {
+          "slot_no": 0
+        },
+        {
+          "slot_no": 0
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "slot_lock": true,
+      "lock_group": 10,
+      "currency_id": 15000,
+      "currency_value": 300,
+      "HexaBoardSlotNumberData": [
+        {
+          "slot_no": 34
+        },
+        {
+          "slot_no": 44
+        },
+        {
+          "slot_no": 45
+        },
+        {
+          "slot_no": 0
+        },
+        {
+          "slot_no": 0
+        },
+        {
+          "slot_no": 0
+        },
+        {
+          "slot_no": 0
+        },
+        {
+          "slot_no": 0
+        },
+        {
+          "slot_no": 0
+        },
+        {
+          "slot_no": 0
+        }
+      ]
+    }
+  ]
+}

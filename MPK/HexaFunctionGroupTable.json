@@ -1,0 +1,509 @@
+{
+  "version": "0.0.1",
+  "records": [
+    {
+      "id": 10101,
+      "function_group": 101,
+      "ratio": 100,
+      "slot_1_function": 101,
+      "slot_2_function": 101,
+      "slot_3_function": 101,
+      "order": 1
+    },
+    {
+      "id": 10102,
+      "function_group": 101,
+      "ratio": 100,
+      "slot_1_function": 101,
+      "slot_2_function": 101,
+      "slot_3_function": 201,
+      "order": 2
+    },
+    {
+      "id": 10103,
+      "function_group": 101,
+      "ratio": 100,
+      "slot_1_function": 101,
+      "slot_2_function": 101,
+      "slot_3_function": 301,
+      "order": 3
+    },
+    {
+      "id": 10104,
+      "function_group": 101,
+      "ratio": 100,
+      "slot_1_function": 101,
+      "slot_2_function": 101,
+      "slot_3_function": 401,
+      "order": 4
+    },
+    {
+      "id": 10105,
+      "function_group": 101,
+      "ratio": 100,
+      "slot_1_function": 101,
+      "slot_2_function": 101,
+      "slot_3_function": 501,
+      "order": 5
+    },
+    {
+      "id": 10106,
+      "function_group": 101,
+      "ratio": 100,
+      "slot_1_function": 101,
+      "slot_2_function": 101,
+      "slot_3_function": 601,
+      "order": 6
+    },
+    {
+      "id": 10107,
+      "function_group": 101,
+      "ratio": 100,
+      "slot_1_function": 101,
+      "slot_2_function": 201,
+      "slot_3_function": 201,
+      "order": 7
+    },
+    {
+      "id": 10108,
+      "function_group": 101,
+      "ratio": 100,
+      "slot_1_function": 101,
+      "slot_2_function": 201,
+      "slot_3_function": 301,
+      "order": 8
+    },
+    {
+      "id": 10109,
+      "function_group": 101,
+      "ratio": 100,
+      "slot_1_function": 101,
+      "slot_2_function": 201,
+      "slot_3_function": 401,
+      "order": 9
+    },
+    {
+      "id": 10110,
+      "function_group": 101,
+      "ratio": 100,
+      "slot_1_function": 101,
+      "slot_2_function": 201,
+      "slot_3_function": 501,
+      "order": 10
+    },
+    {
+      "id": 10111,
+      "function_group": 101,
+      "ratio": 100,
+      "slot_1_function": 101,
+      "slot_2_function": 201,
+      "slot_3_function": 601,
+      "order": 11
+    },
+    {
+      "id": 10112,
+      "function_group": 101,
+      "ratio": 100,
+      "slot_1_function": 101,
+      "slot_2_function": 301,
+      "slot_3_function": 301,
+      "order": 12
+    },
+    {
+      "id": 10113,
+      "function_group": 101,
+      "ratio": 100,
+      "slot_1_function": 101,
+      "slot_2_function": 301,
+      "slot_3_function": 401,
+      "order": 13
+    },
+    {
+      "id": 10114,
+      "function_group": 101,
+      "ratio": 100,
+      "slot_1_function": 101,
+      "slot_2_function": 301,
+      "slot_3_function": 501,
+      "order": 14
+    },
+    {
+      "id": 10115,
+      "function_group": 101,
+      "ratio": 100,
+      "slot_1_function": 101,
+      "slot_2_function": 301,
+      "slot_3_function": 601,
+      "order": 15
+    },
+    {
+      "id": 10116,
+      "function_group": 101,
+      "ratio": 100,
+      "slot_1_function": 101,
+      "slot_2_function": 401,
+      "slot_3_function": 401,
+      "order": 16
+    },
+    {
+      "id": 10117,
+      "function_group": 101,
+      "ratio": 100,
+      "slot_1_function": 101,
+      "slot_2_function": 401,
+      "slot_3_function": 501,
+      "order": 17
+    },
+    {
+      "id": 10118,
+      "function_group": 101,
+      "ratio": 100,
+      "slot_1_function": 101,
+      "slot_2_function": 401,
+      "slot_3_function": 601,
+      "order": 18
+    },
+    {
+      "id": 10119,
+      "function_group": 101,
+      "ratio": 100,
+      "slot_1_function": 101,
+      "slot_2_function": 501,
+      "slot_3_function": 501,
+      "order": 19
+    },
+    {
+      "id": 10120,
+      "function_group": 101,
+      "ratio": 100,
+      "slot_1_function": 101,
+      "slot_2_function": 501,
+      "slot_3_function": 601,
+      "order": 20
+    },
+    {
+      "id": 10121,
+      "function_group": 101,
+      "ratio": 100,
+      "slot_1_function": 101,
+      "slot_2_function": 601,
+      "slot_3_function": 601,
+      "order": 21
+    },
+    {
+      "id": 10122,
+      "function_group": 101,
+      "ratio": 100,
+      "slot_1_function": 201,
+      "slot_2_function": 201,
+      "slot_3_function": 201,
+      "order": 22
+    },
+    {
+      "id": 10123,
+      "function_group": 101,
+      "ratio": 100,
+      "slot_1_function": 201,
+      "slot_2_function": 201,
+      "slot_3_function": 301,
+      "order": 23
+    },
+    {
+      "id": 10124,
+      "function_group": 101,
+      "ratio": 100,
+      "slot_1_function": 201,
+      "slot_2_function": 201,
+      "slot_3_function": 401,
+      "order": 24
+    },
+    {
+      "id": 10125,
+      "function_group": 101,
+      "ratio": 100,
+      "slot_1_function": 201,
+      "slot_2_function": 201,
+      "slot_3_function": 501,
+      "order": 25
+    },
+    {
+      "id": 10126,
+      "function_group": 101,
+      "ratio": 100,
+      "slot_1_function": 201,
+      "slot_2_function": 201,
+      "slot_3_function": 601,
+      "order": 26
+    },
+    {
+      "id": 10127,
+      "function_group": 101,
+      "ratio": 100,
+      "slot_1_function": 201,
+      "slot_2_function": 301,
+      "slot_3_function": 301,
+      "order": 27
+    },
+    {
+      "id": 10128,
+      "function_group": 101,
+      "ratio": 100,
+      "slot_1_function": 201,
+      "slot_2_function": 301,
+      "slot_3_function": 401,
+      "order": 28
+    },
+    {
+      "id": 10129,
+      "function_group": 101,
+      "ratio": 100,
+      "slot_1_function": 201,
+      "slot_2_function": 301,
+      "slot_3_function": 501,
+      "order": 29
+    },
+    {
+      "id": 10130,
+      "function_group": 101,
+      "ratio": 100,
+      "slot_1_function": 201,
+      "slot_2_function": 301,
+      "slot_3_function": 601,
+      "order": 30
+    },
+    {
+      "id": 10131,
+      "function_group": 101,
+      "ratio": 100,
+      "slot_1_function": 201,
+      "slot_2_function": 401,
+      "slot_3_function": 401,
+      "order": 31
+    },
+    {
+      "id": 10132,
+      "function_group": 101,
+      "ratio": 100,
+      "slot_1_function": 201,
+      "slot_2_function": 401,
+      "slot_3_function": 501,
+      "order": 32
+    },
+    {
+      "id": 10133,
+      "function_group": 101,
+      "ratio": 100,
+      "slot_1_function": 201,
+      "slot_2_function": 401,
+      "slot_3_function": 601,
+      "order": 33
+    },
+    {
+      "id": 10134,
+      "function_group": 101,
+      "ratio": 100,
+      "slot_1_function": 201,
+      "slot_2_function": 501,
+      "slot_3_function": 501,
+      "order": 34
+    },
+    {
+      "id": 10135,
+      "function_group": 101,
+      "ratio": 100,
+      "slot_1_function": 201,
+      "slot_2_function": 501,
+      "slot_3_function": 601,
+      "order": 35
+    },
+    {
+      "id": 10136,
+      "function_group": 101,
+      "ratio": 100,
+      "slot_1_function": 201,
+      "slot_2_function": 601,
+      "slot_3_function": 601,
+      "order": 36
+    },
+    {
+      "id": 10137,
+      "function_group": 101,
+      "ratio": 100,
+      "slot_1_function": 301,
+      "slot_2_function": 301,
+      "slot_3_function": 301,
+      "order": 37
+    },
+    {
+      "id": 10138,
+      "function_group": 101,
+      "ratio": 100,
+      "slot_1_function": 301,
+      "slot_2_function": 301,
+      "slot_3_function": 401,
+      "order": 38
+    },
+    {
+      "id": 10139,
+      "function_group": 101,
+      "ratio": 100,
+      "slot_1_function": 301,
+      "slot_2_function": 301,
+      "slot_3_function": 501,
+      "order": 39
+    },
+    {
+      "id": 10140,
+      "function_group": 101,
+      "ratio": 100,
+      "slot_1_function": 301,
+      "slot_2_function": 301,
+      "slot_3_function": 601,
+      "order": 40
+    },
+    {
+      "id": 10141,
+      "function_group": 101,
+      "ratio": 100,
+      "slot_1_function": 301,
+      "slot_2_function": 401,
+      "slot_3_function": 401,
+      "order": 41
+    },
+    {
+      "id": 10142,
+      "function_group": 101,
+      "ratio": 100,
+      "slot_1_function": 301,
+      "slot_2_function": 401,
+      "slot_3_function": 501,
+      "order": 42
+    },
+    {
+      "id": 10143,
+      "function_group": 101,
+      "ratio": 100,
+      "slot_1_function": 301,
+      "slot_2_function": 401,
+      "slot_3_function": 601,
+      "order": 43
+    },
+    {
+      "id": 10144,
+      "function_group": 101,
+      "ratio": 100,
+      "slot_1_function": 301,
+      "slot_2_function": 501,
+      "slot_3_function": 501,
+      "order": 44
+    },
+    {
+      "id": 10145,
+      "function_group": 101,
+      "ratio": 100,
+      "slot_1_function": 301,
+      "slot_2_function": 501,
+      "slot_3_function": 601,
+      "order": 45
+    },
+    {
+      "id": 10146,
+      "function_group": 101,
+      "ratio": 100,
+      "slot_1_function": 301,
+      "slot_2_function": 601,
+      "slot_3_function": 601,
+      "order": 46
+    },
+    {
+      "id": 10147,
+      "function_group": 101,
+      "ratio": 100,
+      "slot_1_function": 401,
+      "slot_2_function": 401,
+      "slot_3_function": 401,
+      "order": 47
+    },
+    {
+      "id": 10148,
+      "function_group": 101,
+      "ratio": 100,
+      "slot_1_function": 401,
+      "slot_2_function": 401,
+      "slot_3_function": 501,
+      "order": 48
+    },
+    {
+      "id": 10149,
+      "function_group": 101,
+      "ratio": 100,
+      "slot_1_function": 401,
+      "slot_2_function": 401,
+      "slot_3_function": 601,
+      "order": 49
+    },
+    {
+      "id": 10150,
+      "function_group": 101,
+      "ratio": 100,
+      "slot_1_function": 401,
+      "slot_2_function": 501,
+      "slot_3_function": 501,
+      "order": 50
+    },
+    {
+      "id": 10151,
+      "function_group": 101,
+      "ratio": 100,
+      "slot_1_function": 401,
+      "slot_2_function": 501,
+      "slot_3_function": 601,
+      "order": 51
+    },
+    {
+      "id": 10152,
+      "function_group": 101,
+      "ratio": 100,
+      "slot_1_function": 401,
+      "slot_2_function": 601,
+      "slot_3_function": 601,
+      "order": 52
+    },
+    {
+      "id": 10153,
+      "function_group": 101,
+      "ratio": 100,
+      "slot_1_function": 501,
+      "slot_2_function": 501,
+      "slot_3_function": 501,
+      "order": 53
+    },
+    {
+      "id": 10154,
+      "function_group": 101,
+      "ratio": 100,
+      "slot_1_function": 501,
+      "slot_2_function": 501,
+      "slot_3_function": 601,
+      "order": 54
+    },
+    {
+      "id": 10155,
+      "function_group": 101,
+      "ratio": 100,
+      "slot_1_function": 501,
+      "slot_2_function": 601,
+      "slot_3_function": 601,
+      "order": 55
+    },
+    {
+      "id": 10156,
+      "function_group": 101,
+      "ratio": 100,
+      "slot_1_function": 601,
+      "slot_2_function": 601,
+      "slot_3_function": 601,
+      "order": 56
+    }
+  ]
+}
