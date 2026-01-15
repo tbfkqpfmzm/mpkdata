@@ -14386,15 +14386,15 @@
       "description_localkey": "Locale_Skill:character_shot_description_localkey_ar_down",
       "camera_work": "camera_work_01",
       "weapon_type": "AR",
-      "attack_type": "Energy",
-      "counter_enermy": "Energy_Type",
+      "attack_type": "Metal",
+      "counter_enermy": "Metal_Type",
       "prefer_target": "TargetAR",
       "prefer_target_condition": "None",
       "shot_timing": "Concurrence",
       "fire_type": "Instant",
       "input_type": "DOWN",
       "is_targeting": true,
-      "damage": 1401,
+      "damage": 1365,
       "shot_count": 1,
       "muzzle_count": 1,
       "multi_target_count": 0,
@@ -14402,7 +14402,7 @@
       "max_ammo": 60,
       "maintain_fire_stance": 0,
       "uptype_fire_timing": 0,
-      "reload_time": 117,
+      "reload_time": 100,
       "reload_bullet": 10000,
       "reload_start_ammo": 59,
       "rate_of_fire_reset_time": 0,
@@ -14438,7 +14438,7 @@
       "hurt_function_id_list": [
         0
       ],
-      "shake_id": 1,
+      "shake_id": 2,
       "ShakeType": "Fire_AR",
       "ShakeWeight": 120
     }
