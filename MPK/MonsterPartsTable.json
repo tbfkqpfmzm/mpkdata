@@ -18193,6 +18193,366 @@
       "is_parts_damage_able": true
     },
     {
+      "id": 25101501,
+      "monster_model_id": 251015,
+      "damage_hp_ratio": 0,
+      "hp_ratio": 10000,
+      "attack_ratio": 10000,
+      "defence_ratio": 10000,
+      "energy_resist_ratio": 10000,
+      "metal_resist_ratio": 10000,
+      "bio_resist_ratio": 10000,
+      "destroy_after_movable": false,
+      "passive_skill_id": 7000008,
+      "visible_hp": false,
+      "linked_parts_id": 25101501,
+      "weapon_object": [
+        "socket_muzzle_fire_05",
+        "socket_muzzle_fire_06",
+        "socket_muzzle_fire_07",
+        "socket_muzzle_fire_08",
+        "socket_muzzle_fire_31",
+        "socket_muzzle_fire_32",
+        "socket_muzzle_fire_33",
+        "socket_muzzle_fire_34",
+        "socket_muzzle_fire_09",
+        "socket_muzzle_fire_10",
+        "socket_muzzle_fire_11",
+        "socket_muzzle_fire_13",
+        "socket_muzzle_fire_14",
+        "socket_muzzle_fire_16",
+        "socket_muzzle_fire_17",
+        "socket_muzzle_fire_18",
+        "socket_muzzle_fire_19",
+        "socket_muzzle_fire_20",
+        "socket_muzzle_fire_21",
+        "socket_muzzle_fire_22",
+        "socket_muzzle_fire_12",
+        "socket_muzzle_fire_38",
+        "socket_muzzle_fire_61",
+        "socket_muzzle_fire_70",
+        "socket_muzzle_fire_71",
+        "socket_muzzle_fire_72",
+        "socket_muzzle_fire_73",
+        "socket_muzzle_fire_74",
+        "socket_muzzle_fire_75",
+        "socket_muzzle_fire_76",
+        "socket_muzzle_fire_77",
+        "socket_muzzle_fire_78",
+        "socket_muzzle_fire_79",
+        "socket_muzzle_fire_80",
+        "socket_muzzle_fire_81",
+        "socket_muzzle_fire_90",
+        "socket_muzzle_fire_91",
+        "socket_muzzle_fire_92",
+        "socket_muzzle_fire_93",
+        "socket_muzzle_fire_94",
+        "socket_muzzle_fire_95",
+        "socket_muzzle_fire_96",
+        "socket_muzzle_fire_97",
+        "socket_muzzle_fire_98",
+        "socket_muzzle_fire_99",
+        "socket_muzzle_fire_100",
+        "socket_muzzle_fire_101"
+      ],
+      "weapon_object_enum": [
+        "weapon_object_01",
+        "weapon_object_01",
+        "weapon_object_01",
+        "weapon_object_01",
+        "weapon_object_02",
+        "weapon_object_02",
+        "weapon_object_02",
+        "weapon_object_02",
+        "weapon_object_03",
+        "weapon_object_03",
+        "weapon_object_03",
+        "weapon_object_03",
+        "weapon_object_03",
+        "weapon_object_03",
+        "weapon_object_03",
+        "weapon_object_03",
+        "weapon_object_03",
+        "weapon_object_03",
+        "weapon_object_03",
+        "weapon_object_03",
+        "weapon_object_04",
+        "weapon_object_05",
+        "weapon_object_06",
+        "weapon_object_07",
+        "weapon_object_07",
+        "weapon_object_07",
+        "weapon_object_07",
+        "weapon_object_07",
+        "weapon_object_07",
+        "weapon_object_07",
+        "weapon_object_07",
+        "weapon_object_07",
+        "weapon_object_07",
+        "weapon_object_07",
+        "weapon_object_07",
+        "weapon_object_08",
+        "weapon_object_08",
+        "weapon_object_08",
+        "weapon_object_08",
+        "weapon_object_08",
+        "weapon_object_08",
+        "weapon_object_08",
+        "weapon_object_08",
+        "weapon_object_08",
+        "weapon_object_08",
+        "weapon_object_08",
+        "weapon_object_08"
+      ],
+      "parts_type": "Body",
+      "parts_object": [
+        "eba005_var"
+      ],
+      "monster_destroy_anim_trigger": "None",
+      "is_main_part": true,
+      "is_parts_damage_able": true
+    },
+    {
+      "id": 25101502,
+      "monster_model_id": 251015,
+      "parts_name_localkey": "Locale_Monster:parts_name_ziz01",
+      "damage_hp_ratio": 350,
+      "hp_ratio": 200,
+      "attack_ratio": 10000,
+      "defence_ratio": 10000,
+      "energy_resist_ratio": 10000,
+      "metal_resist_ratio": 10000,
+      "bio_resist_ratio": 10000,
+      "destroy_after_movable": false,
+      "passive_skill_id": 0,
+      "visible_hp": true,
+      "linked_parts_id": 25101501,
+      "weapon_object": [
+        "None"
+      ],
+      "weapon_object_enum": [
+        "none"
+      ],
+      "parts_type": "Weapon_01",
+      "parts_object": [
+        "eba005_1phase_core_02"
+      ],
+      "parts_skin": "eba005_1phase_core_01_skin",
+      "monster_destroy_anim_trigger": "None",
+      "is_main_part": false,
+      "is_parts_damage_able": true
+    },
+    {
+      "id": 25101503,
+      "monster_model_id": 251015,
+      "parts_name_localkey": "Locale_Monster:parts_name_ziz02",
+      "damage_hp_ratio": 350,
+      "hp_ratio": 200,
+      "attack_ratio": 10000,
+      "defence_ratio": 10000,
+      "energy_resist_ratio": 10000,
+      "metal_resist_ratio": 10000,
+      "bio_resist_ratio": 10000,
+      "destroy_after_movable": false,
+      "passive_skill_id": 0,
+      "visible_hp": true,
+      "linked_parts_id": 25101501,
+      "weapon_object": [
+        "None"
+      ],
+      "weapon_object_enum": [
+        "none"
+      ],
+      "parts_type": "Weapon_02",
+      "parts_object": [
+        "eba005_1phase_core_04"
+      ],
+      "parts_skin": "eba005_1phase_core_04_skin",
+      "monster_destroy_anim_trigger": "None",
+      "is_main_part": false,
+      "is_parts_damage_able": true
+    },
+    {
+      "id": 25101504,
+      "monster_model_id": 251015,
+      "parts_name_localkey": "Locale_Monster:parts_name_ziz03",
+      "damage_hp_ratio": 350,
+      "hp_ratio": 200,
+      "attack_ratio": 10000,
+      "defence_ratio": 10000,
+      "energy_resist_ratio": 10000,
+      "metal_resist_ratio": 10000,
+      "bio_resist_ratio": 10000,
+      "destroy_after_movable": false,
+      "passive_skill_id": 0,
+      "visible_hp": true,
+      "linked_parts_id": 25101501,
+      "weapon_object": [
+        "None"
+      ],
+      "weapon_object_enum": [
+        "none"
+      ],
+      "parts_type": "Weapon_03",
+      "parts_object": [
+        "eba005_1phase_core_06"
+      ],
+      "parts_skin": "eba005_1phase_core_02_skin",
+      "monster_destroy_anim_trigger": "None",
+      "is_main_part": false,
+      "is_parts_damage_able": true
+    },
+    {
+      "id": 25101505,
+      "monster_model_id": 251015,
+      "parts_name_localkey": "Locale_Monster:parts_name_ziz04",
+      "damage_hp_ratio": 350,
+      "hp_ratio": 200,
+      "attack_ratio": 10000,
+      "defence_ratio": 10000,
+      "energy_resist_ratio": 10000,
+      "metal_resist_ratio": 10000,
+      "bio_resist_ratio": 10000,
+      "destroy_after_movable": false,
+      "passive_skill_id": 0,
+      "visible_hp": true,
+      "linked_parts_id": 25101501,
+      "weapon_object": [
+        "None"
+      ],
+      "weapon_object_enum": [
+        "none"
+      ],
+      "parts_type": "Weapon_04",
+      "parts_object": [
+        "eba005_1phase_core_08"
+      ],
+      "parts_skin": "eba005_1phase_core_03_skin",
+      "monster_destroy_anim_trigger": "None",
+      "is_main_part": false,
+      "is_parts_damage_able": true
+    },
+    {
+      "id": 25101506,
+      "monster_model_id": 251015,
+      "parts_name_localkey": "Locale_Monster:parts_name_ziz01",
+      "damage_hp_ratio": 350,
+      "hp_ratio": 200,
+      "attack_ratio": 10000,
+      "defence_ratio": 10000,
+      "energy_resist_ratio": 10000,
+      "metal_resist_ratio": 10000,
+      "bio_resist_ratio": 10000,
+      "destroy_after_movable": false,
+      "passive_skill_id": 0,
+      "visible_hp": true,
+      "linked_parts_id": 25101501,
+      "weapon_object": [
+        "None"
+      ],
+      "weapon_object_enum": [
+        "none"
+      ],
+      "parts_type": "Weapon_05",
+      "parts_object": [
+        "eba005_2phase_core_02"
+      ],
+      "parts_skin": "eba005_2phase_core_04_skin",
+      "monster_destroy_anim_trigger": "None",
+      "is_main_part": false,
+      "is_parts_damage_able": true
+    },
+    {
+      "id": 25101507,
+      "monster_model_id": 251015,
+      "parts_name_localkey": "Locale_Monster:parts_name_ziz02",
+      "damage_hp_ratio": 350,
+      "hp_ratio": 200,
+      "attack_ratio": 10000,
+      "defence_ratio": 10000,
+      "energy_resist_ratio": 10000,
+      "metal_resist_ratio": 10000,
+      "bio_resist_ratio": 10000,
+      "destroy_after_movable": false,
+      "passive_skill_id": 0,
+      "visible_hp": true,
+      "linked_parts_id": 25101501,
+      "weapon_object": [
+        "None"
+      ],
+      "weapon_object_enum": [
+        "none"
+      ],
+      "parts_type": "Weapon_06",
+      "parts_object": [
+        "eba005_2phase_core_04"
+      ],
+      "parts_skin": "eba005_2phase_core_01_skin",
+      "monster_destroy_anim_trigger": "None",
+      "is_main_part": false,
+      "is_parts_damage_able": true
+    },
+    {
+      "id": 25101508,
+      "monster_model_id": 251015,
+      "parts_name_localkey": "Locale_Monster:parts_name_ziz03",
+      "damage_hp_ratio": 350,
+      "hp_ratio": 200,
+      "attack_ratio": 10000,
+      "defence_ratio": 10000,
+      "energy_resist_ratio": 10000,
+      "metal_resist_ratio": 10000,
+      "bio_resist_ratio": 10000,
+      "destroy_after_movable": false,
+      "passive_skill_id": 0,
+      "visible_hp": true,
+      "linked_parts_id": 25101501,
+      "weapon_object": [
+        "None"
+      ],
+      "weapon_object_enum": [
+        "none"
+      ],
+      "parts_type": "Weapon_07",
+      "parts_object": [
+        "eba005_2phase_core_06"
+      ],
+      "parts_skin": "eba005_2phase_core_03_skin",
+      "monster_destroy_anim_trigger": "None",
+      "is_main_part": false,
+      "is_parts_damage_able": true
+    },
+    {
+      "id": 25101509,
+      "monster_model_id": 251015,
+      "parts_name_localkey": "Locale_Monster:parts_name_ziz04",
+      "damage_hp_ratio": 350,
+      "hp_ratio": 200,
+      "attack_ratio": 10000,
+      "defence_ratio": 10000,
+      "energy_resist_ratio": 10000,
+      "metal_resist_ratio": 10000,
+      "bio_resist_ratio": 10000,
+      "destroy_after_movable": false,
+      "passive_skill_id": 0,
+      "visible_hp": true,
+      "linked_parts_id": 25101501,
+      "weapon_object": [
+        "None"
+      ],
+      "weapon_object_enum": [
+        "none"
+      ],
+      "parts_type": "Weapon_08",
+      "parts_object": [
+        "eba005_2phase_core_08"
+      ],
+      "parts_skin": "eba005_2phase_core_02_skin",
+      "monster_destroy_anim_trigger": "None",
+      "is_main_part": false,
+      "is_parts_damage_able": true
+    },
+    {
       "id": 45200301,
       "monster_model_id": 452003,
       "damage_hp_ratio": 0,

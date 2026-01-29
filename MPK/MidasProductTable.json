@@ -7822,6 +7822,16 @@
       "cost": "19.99"
     },
     {
+      "id": 60001041,
+      "product_type": "PassShop",
+      "product_id": 1041,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.costumepass40",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.costumepass40",
+      "is_free": false,
+      "cost": "19.99"
+    },
+    {
       "id": 71000001,
       "product_type": "EventPassShop",
       "product_id": 1000001,
@@ -9978,6 +9988,36 @@
       "item_type": "Item",
       "midas_product_id_proximabeta": "com.proximabeta.nikke.passcostume_03_102_01",
       "midas_product_id_gamamobi": "com.gamamobi.nikke.passcostume_03_102_01",
+      "is_free": false,
+      "cost": "19.99"
+    },
+    {
+      "id": 100130029,
+      "product_type": "PassCostumeShop",
+      "product_id": 130029,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.passcostume_06_401_01",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.passcostume_06_401_01",
+      "is_free": false,
+      "cost": "19.99"
+    },
+    {
+      "id": 100130031,
+      "product_type": "PassCostumeShop",
+      "product_id": 130030,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.passcostume_06_501_01",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.passcostume_06_501_01",
+      "is_free": false,
+      "cost": "19.99"
+    },
+    {
+      "id": 100130030,
+      "product_type": "PassCostumeShop",
+      "product_id": 130031,
+      "item_type": "Item",
+      "midas_product_id_proximabeta": "com.proximabeta.nikke.passcostume_06_022_01",
+      "midas_product_id_gamamobi": "com.gamamobi.nikke.passcostume_06_022_01",
       "is_free": false,
       "cost": "19.99"
     }

@@ -20351,7 +20351,7 @@
       "background_name": "sbg_arkcityday_004_midclear",
       "theme": "ArkCityDay",
       "theme_time": "Day",
-      "stage_info_bg": "ibg_arkcityday_basedefense_001",
+      "stage_info_bg": "ibg_arkcityday_001",
       "target_list": [
         1420010111
       ],
@@ -20895,7 +20895,7 @@
           "private_monster_count": 10,
           "wave_monster_list": [
             {
-              "wave_monster_id": 2210030111,
+              "wave_monster_id": 1210020111,
               "spawn_type": "Drop"
             },
             {
@@ -20939,7 +20939,7 @@
           "private_monster_count": 8,
           "wave_monster_list": [
             {
-              "wave_monster_id": 2210030111,
+              "wave_monster_id": 1210020111,
               "spawn_type": "Drop"
             },
             {
@@ -23286,12 +23286,12 @@
       "monster_count": 6,
       "use_intro_scene": false,
       "wave_repeat": false,
-      "point_data": "point_grd_arkcity_005_midclear",
-      "point_data_fly": "point_fly_arkcity_005",
-      "background_name": "sbg_arkcity_005_midclear",
+      "point_data": "point_grd_arkcityday_004_midclear",
+      "point_data_fly": "point_fly_arkcityday_004",
+      "background_name": "sbg_arkcityday_004_midclear",
       "theme": "ArkCityDay",
       "theme_time": "Day",
-      "stage_info_bg": "ibg_arkcity_001",
+      "stage_info_bg": "ibg_arkcityday_001",
       "target_list": [
         2420040111
       ],
