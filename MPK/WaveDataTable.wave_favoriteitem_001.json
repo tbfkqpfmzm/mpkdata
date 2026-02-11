@@ -1960,6 +1960,251 @@
       "close_monster_count": 30,
       "mid_monster_count": 6,
       "far_monster_count": 0
+    },
+    {
+      "stage_id": 5100601,
+      "group_id": "wave_favoriteitem_001",
+      "spot_mod": "Campaign",
+      "ui_theme": "None",
+      "battle_time": 90,
+      "mod_value": "0",
+      "monster_count": 5,
+      "use_intro_scene": true,
+      "wave_repeat": false,
+      "point_data": "point_grd_cityforestunder_005",
+      "point_data_fly": "point_fly_cityforestunder_005",
+      "background_name": "sbg_cityforestunder_005",
+      "theme": "CityForestUnder",
+      "theme_time": "Day",
+      "stage_info_bg": "ibg_cityforestunder_001",
+      "target_list": [
+        2320050121
+      ],
+      "wave_data": [
+        {
+          "wave_path": "path_grd_close_small_001",
+          "private_monster_count": -1,
+          "wave_monster_list": [
+            {
+              "wave_monster_id": 3220050121,
+              "spawn_type": "Drop"
+            },
+            {
+              "wave_monster_id": 3220050121,
+              "spawn_type": "Drop"
+            },
+            {
+              "wave_monster_id": 3220050121,
+              "spawn_type": "Drop"
+            },
+            {
+              "wave_monster_id": 3220050121,
+              "spawn_type": "Drop"
+            }
+          ]
+        },
+        {
+          "wave_path": "path_fly_mid_special_016",
+          "private_monster_count": 7,
+          "wave_monster_list": [
+            {
+              "wave_monster_id": 2210020121,
+              "spawn_type": "Jump"
+            },
+            {
+              "wave_monster_id": 2110010121,
+              "spawn_type": "Jump"
+            },
+            {
+              "wave_monster_id": 2110010121,
+              "spawn_type": "Jump"
+            },
+            {
+              "wave_monster_id": 2110010121,
+              "spawn_type": "Jump"
+            }
+          ]
+        },
+        {
+          "wave_path": "path_grd_close_small_051",
+          "private_monster_count": 6,
+          "wave_monster_list": [
+            {
+              "wave_monster_id": 1220040121,
+              "spawn_type": "Dash"
+            },
+            {
+              "wave_monster_id": 1220040121,
+              "spawn_type": "Dash"
+            },
+            {
+              "wave_monster_id": 1220040121,
+              "spawn_type": "Dash"
+            },
+            {
+              "wave_monster_id": 1220040121,
+              "spawn_type": "Dash"
+            }
+          ]
+        },
+        {
+          "wave_path": "path_grd_close_elite1_801",
+          "private_monster_count": 0,
+          "wave_monster_list": [
+            {
+              "wave_monster_id": 1220040121,
+              "spawn_type": "Jump"
+            },
+            {
+              "wave_monster_id": 1220040121,
+              "spawn_type": "Jump"
+            },
+            {
+              "wave_monster_id": 1220040121,
+              "spawn_type": "Jump"
+            },
+            {
+              "wave_monster_id": 2320050121,
+              "spawn_type": "Jump"
+            }
+          ]
+        },
+        {
+          "wave_path": "",
+          "private_monster_count": -1,
+          "wave_monster_list": [
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            },
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            },
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            },
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            }
+          ]
+        },
+        {
+          "wave_path": "",
+          "private_monster_count": -1,
+          "wave_monster_list": [
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            },
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            },
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            },
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            }
+          ]
+        },
+        {
+          "wave_path": "",
+          "private_monster_count": -1,
+          "wave_monster_list": [
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            },
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            },
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            },
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            }
+          ]
+        },
+        {
+          "wave_path": "",
+          "private_monster_count": -1,
+          "wave_monster_list": [
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            },
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            },
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            },
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            }
+          ]
+        },
+        {
+          "wave_path": "",
+          "private_monster_count": -1,
+          "wave_monster_list": [
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            },
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            },
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            },
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            }
+          ]
+        },
+        {
+          "wave_path": "",
+          "private_monster_count": -1,
+          "wave_monster_list": [
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            },
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            },
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            },
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            }
+          ]
+        }
+      ],
+      "close_monster_count": 21,
+      "mid_monster_count": 15,
+      "far_monster_count": 0
     }
   ]
 }

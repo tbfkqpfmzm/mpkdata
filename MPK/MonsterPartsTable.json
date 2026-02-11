@@ -18713,6 +18713,526 @@
       "monster_destroy_anim_trigger": "None",
       "is_main_part": false,
       "is_parts_damage_able": true
+    },
+    {
+      "id": 45200401,
+      "monster_model_id": 452004,
+      "damage_hp_ratio": 0,
+      "hp_ratio": 10000,
+      "attack_ratio": 10000,
+      "defence_ratio": 10000,
+      "energy_resist_ratio": 10000,
+      "metal_resist_ratio": 10000,
+      "bio_resist_ratio": 10000,
+      "destroy_after_movable": false,
+      "passive_skill_id": 7000008,
+      "visible_hp": false,
+      "linked_parts_id": 45200401,
+      "weapon_object": [
+        "socket_muzzle_fire_21",
+        "socket_muzzle_fire_24",
+        "socket_muzzle_fire_23",
+        "socket_muzzle_fire_22",
+        "socket_muzzle_fire_26",
+        "socket_muzzle_fire_25",
+        "socket_muzzle_fire_27",
+        "socket_muzzle_fire_28",
+        "socket_muzzle_fire_29",
+        "socket_muzzle_fire_30",
+        "socket_muzzle_fire_31",
+        "socket_muzzle_fire_32"
+      ],
+      "weapon_object_enum": [
+        "weapon_object_01",
+        "weapon_object_02",
+        "weapon_object_02",
+        "weapon_object_02",
+        "weapon_object_02",
+        "weapon_object_02",
+        "weapon_object_03",
+        "weapon_object_03",
+        "weapon_object_03",
+        "weapon_object_03",
+        "weapon_object_03",
+        "weapon_object_04"
+      ],
+      "parts_type": "Body",
+      "parts_object": [
+        "xbg004_var"
+      ],
+      "monster_destroy_anim_trigger": "None",
+      "is_main_part": true,
+      "is_parts_damage_able": true
+    },
+    {
+      "id": 45200402,
+      "monster_model_id": 452004,
+      "parts_name_localkey": "Locale_Monster:parts_name_altruia01",
+      "damage_hp_ratio": 76,
+      "hp_ratio": 50,
+      "attack_ratio": 10000,
+      "defence_ratio": 10000,
+      "energy_resist_ratio": 10000,
+      "metal_resist_ratio": 10000,
+      "bio_resist_ratio": 10000,
+      "destroy_after_movable": false,
+      "passive_skill_id": 0,
+      "visible_hp": true,
+      "linked_parts_id": 45200401,
+      "weapon_object": [
+        "None"
+      ],
+      "weapon_object_enum": [
+        "none"
+      ],
+      "parts_type": "Weapon_01",
+      "parts_object": [
+        "parts_col_115"
+      ],
+      "parts_skin": "xbg004_helm_01_skin_glow",
+      "monster_destroy_anim_trigger": "None",
+      "is_main_part": false,
+      "is_parts_damage_able": true
+    },
+    {
+      "id": 45200403,
+      "monster_model_id": 452004,
+      "parts_name_localkey": "Locale_Monster:parts_name_altruia02",
+      "damage_hp_ratio": 76,
+      "hp_ratio": 50,
+      "attack_ratio": 10000,
+      "defence_ratio": 10000,
+      "energy_resist_ratio": 10000,
+      "metal_resist_ratio": 10000,
+      "bio_resist_ratio": 10000,
+      "destroy_after_movable": false,
+      "passive_skill_id": 0,
+      "visible_hp": true,
+      "linked_parts_id": 45200401,
+      "weapon_object": [
+        "None"
+      ],
+      "weapon_object_enum": [
+        "none"
+      ],
+      "parts_type": "Weapon_02",
+      "parts_object": [
+        "parts_col_116"
+      ],
+      "parts_skin": "xbg004_helm_02_skin_glow",
+      "monster_destroy_anim_trigger": "None",
+      "is_main_part": false,
+      "is_parts_damage_able": true
+    },
+    {
+      "id": 45200404,
+      "monster_model_id": 452004,
+      "parts_name_localkey": "Locale_Monster:parts_name_altruia03",
+      "damage_hp_ratio": 76,
+      "hp_ratio": 50,
+      "attack_ratio": 10000,
+      "defence_ratio": 10000,
+      "energy_resist_ratio": 10000,
+      "metal_resist_ratio": 10000,
+      "bio_resist_ratio": 10000,
+      "destroy_after_movable": false,
+      "passive_skill_id": 0,
+      "visible_hp": true,
+      "linked_parts_id": 45200401,
+      "weapon_object": [
+        "None"
+      ],
+      "weapon_object_enum": [
+        "none"
+      ],
+      "parts_type": "Weapon_03",
+      "parts_object": [
+        "parts_col_117"
+      ],
+      "parts_skin": "xbg004_helm_03_skin_glow",
+      "monster_destroy_anim_trigger": "None",
+      "is_main_part": false,
+      "is_parts_damage_able": true
+    },
+    {
+      "id": 45200405,
+      "monster_model_id": 452004,
+      "parts_name_localkey": "Locale_Monster:parts_name_altruia04",
+      "damage_hp_ratio": 76,
+      "hp_ratio": 50,
+      "attack_ratio": 10000,
+      "defence_ratio": 10000,
+      "energy_resist_ratio": 10000,
+      "metal_resist_ratio": 10000,
+      "bio_resist_ratio": 10000,
+      "destroy_after_movable": false,
+      "passive_skill_id": 0,
+      "visible_hp": true,
+      "linked_parts_id": 45200401,
+      "weapon_object": [
+        "None"
+      ],
+      "weapon_object_enum": [
+        "none"
+      ],
+      "parts_type": "Weapon_04",
+      "parts_object": [
+        "parts_col_118"
+      ],
+      "parts_skin": "xbg004_helm_04_skin_glow",
+      "monster_destroy_anim_trigger": "None",
+      "is_main_part": false,
+      "is_parts_damage_able": true
+    },
+    {
+      "id": 45200406,
+      "monster_model_id": 452004,
+      "parts_name_localkey": "Locale_Monster:parts_name_altruia05",
+      "damage_hp_ratio": 76,
+      "hp_ratio": 50,
+      "attack_ratio": 10000,
+      "defence_ratio": 10000,
+      "energy_resist_ratio": 10000,
+      "metal_resist_ratio": 10000,
+      "bio_resist_ratio": 10000,
+      "destroy_after_movable": false,
+      "passive_skill_id": 0,
+      "visible_hp": true,
+      "linked_parts_id": 45200401,
+      "weapon_object": [
+        "None"
+      ],
+      "weapon_object_enum": [
+        "none"
+      ],
+      "parts_type": "Weapon_05",
+      "parts_object": [
+        "parts_col_119"
+      ],
+      "parts_skin": "xbg004_helm_05_skin_glow",
+      "monster_destroy_anim_trigger": "None",
+      "is_main_part": false,
+      "is_parts_damage_able": true
+    },
+    {
+      "id": 45200407,
+      "monster_model_id": 452004,
+      "parts_name_localkey": "Locale_Monster:parts_name_altruia06",
+      "damage_hp_ratio": 76,
+      "hp_ratio": 50,
+      "attack_ratio": 10000,
+      "defence_ratio": 10000,
+      "energy_resist_ratio": 10000,
+      "metal_resist_ratio": 10000,
+      "bio_resist_ratio": 10000,
+      "destroy_after_movable": false,
+      "passive_skill_id": 0,
+      "visible_hp": true,
+      "linked_parts_id": 45200401,
+      "weapon_object": [
+        "None"
+      ],
+      "weapon_object_enum": [
+        "none"
+      ],
+      "parts_type": "Weapon_06",
+      "parts_object": [
+        "parts_col_120"
+      ],
+      "parts_skin": "xbg004_helm_06_skin_glow",
+      "monster_destroy_anim_trigger": "None",
+      "is_main_part": false,
+      "is_parts_damage_able": true
+    },
+    {
+      "id": 45200408,
+      "monster_model_id": 452004,
+      "parts_name_localkey": "Locale_Monster:parts_name_altruia07",
+      "damage_hp_ratio": 76,
+      "hp_ratio": 50,
+      "attack_ratio": 10000,
+      "defence_ratio": 10000,
+      "energy_resist_ratio": 10000,
+      "metal_resist_ratio": 10000,
+      "bio_resist_ratio": 10000,
+      "destroy_after_movable": false,
+      "passive_skill_id": 0,
+      "visible_hp": true,
+      "linked_parts_id": 45200401,
+      "weapon_object": [
+        "None"
+      ],
+      "weapon_object_enum": [
+        "none"
+      ],
+      "parts_type": "Weapon_07",
+      "parts_object": [
+        "parts_col_121"
+      ],
+      "parts_skin": "xbg004_helm_07_skin_glow",
+      "monster_destroy_anim_trigger": "None",
+      "is_main_part": false,
+      "is_parts_damage_able": true
+    },
+    {
+      "id": 45200409,
+      "monster_model_id": 452004,
+      "parts_name_localkey": "Locale_Monster:parts_name_altruia08",
+      "damage_hp_ratio": 76,
+      "hp_ratio": 50,
+      "attack_ratio": 10000,
+      "defence_ratio": 10000,
+      "energy_resist_ratio": 10000,
+      "metal_resist_ratio": 10000,
+      "bio_resist_ratio": 10000,
+      "destroy_after_movable": false,
+      "passive_skill_id": 0,
+      "visible_hp": true,
+      "linked_parts_id": 45200401,
+      "weapon_object": [
+        "None"
+      ],
+      "weapon_object_enum": [
+        "none"
+      ],
+      "parts_type": "Weapon_08",
+      "parts_object": [
+        "parts_col_122"
+      ],
+      "parts_skin": "xbg004_helm_08_skin_glow",
+      "monster_destroy_anim_trigger": "None",
+      "is_main_part": false,
+      "is_parts_damage_able": true
+    },
+    {
+      "id": 45200410,
+      "monster_model_id": 452004,
+      "parts_name_localkey": "Locale_Monster:parts_name_altruia09",
+      "damage_hp_ratio": 76,
+      "hp_ratio": 50,
+      "attack_ratio": 10000,
+      "defence_ratio": 10000,
+      "energy_resist_ratio": 10000,
+      "metal_resist_ratio": 10000,
+      "bio_resist_ratio": 10000,
+      "destroy_after_movable": false,
+      "passive_skill_id": 0,
+      "visible_hp": true,
+      "linked_parts_id": 45200401,
+      "weapon_object": [
+        "None"
+      ],
+      "weapon_object_enum": [
+        "none"
+      ],
+      "parts_type": "Weapon_09",
+      "parts_object": [
+        "parts_col_123"
+      ],
+      "parts_skin": "xbg004_helm_09_skin_glow",
+      "monster_destroy_anim_trigger": "None",
+      "is_main_part": false,
+      "is_parts_damage_able": true
+    },
+    {
+      "id": 45200411,
+      "monster_model_id": 452004,
+      "parts_name_localkey": "Locale_Monster:parts_name_altruia10",
+      "damage_hp_ratio": 1500,
+      "hp_ratio": 370,
+      "attack_ratio": 10000,
+      "defence_ratio": 10000,
+      "energy_resist_ratio": 10000,
+      "metal_resist_ratio": 10000,
+      "bio_resist_ratio": 10000,
+      "destroy_after_movable": false,
+      "passive_skill_id": 0,
+      "visible_hp": true,
+      "linked_parts_id": 45200401,
+      "weapon_object": [
+        "None"
+      ],
+      "weapon_object_enum": [
+        "none"
+      ],
+      "parts_type": "Arm_Left",
+      "parts_object": [
+        "parts_col_124"
+      ],
+      "parts_skin": "xbg004_l_sdf_eye_02_skin_glow",
+      "monster_destroy_anim_trigger": "None",
+      "is_main_part": false,
+      "is_parts_damage_able": true
+    },
+    {
+      "id": 45200412,
+      "monster_model_id": 452004,
+      "parts_name_localkey": "Locale_Monster:parts_name_altruia11",
+      "damage_hp_ratio": 1500,
+      "hp_ratio": 370,
+      "attack_ratio": 10000,
+      "defence_ratio": 10000,
+      "energy_resist_ratio": 10000,
+      "metal_resist_ratio": 10000,
+      "bio_resist_ratio": 10000,
+      "destroy_after_movable": false,
+      "passive_skill_id": 0,
+      "visible_hp": true,
+      "linked_parts_id": 45200401,
+      "weapon_object": [
+        "None"
+      ],
+      "weapon_object_enum": [
+        "none"
+      ],
+      "parts_type": "Arm_Right",
+      "parts_object": [
+        "parts_col_125"
+      ],
+      "parts_skin": "xbg004_sdf_eye_01_skin_glow",
+      "monster_destroy_anim_trigger": "None",
+      "is_main_part": false,
+      "is_parts_damage_able": true
+    },
+    {
+      "id": 45200413,
+      "monster_model_id": 452004,
+      "damage_hp_ratio": 0,
+      "hp_ratio": 10000,
+      "attack_ratio": 10000,
+      "defence_ratio": 10000,
+      "energy_resist_ratio": 10000,
+      "metal_resist_ratio": 10000,
+      "bio_resist_ratio": 10000,
+      "destroy_after_movable": false,
+      "passive_skill_id": 0,
+      "visible_hp": false,
+      "linked_parts_id": 45200401,
+      "weapon_object": [
+        "None"
+      ],
+      "weapon_object_enum": [
+        "none"
+      ],
+      "parts_type": "Chest",
+      "parts_object": [
+        "parts_col_126"
+      ],
+      "monster_destroy_anim_trigger": "None",
+      "is_main_part": false,
+      "is_parts_damage_able": false
+    },
+    {
+      "id": 45200414,
+      "monster_model_id": 452004,
+      "damage_hp_ratio": 0,
+      "hp_ratio": 10000,
+      "attack_ratio": 10000,
+      "defence_ratio": 10000,
+      "energy_resist_ratio": 10000,
+      "metal_resist_ratio": 10000,
+      "bio_resist_ratio": 10000,
+      "destroy_after_movable": false,
+      "passive_skill_id": 0,
+      "visible_hp": false,
+      "linked_parts_id": 45200401,
+      "weapon_object": [
+        "None"
+      ],
+      "weapon_object_enum": [
+        "none"
+      ],
+      "parts_type": "Belly",
+      "parts_object": [
+        "parts_col_127"
+      ],
+      "monster_destroy_anim_trigger": "None",
+      "is_main_part": false,
+      "is_parts_damage_able": false
+    },
+    {
+      "id": 45200415,
+      "monster_model_id": 452004,
+      "damage_hp_ratio": 0,
+      "hp_ratio": 10000,
+      "attack_ratio": 10000,
+      "defence_ratio": 10000,
+      "energy_resist_ratio": 10000,
+      "metal_resist_ratio": 10000,
+      "bio_resist_ratio": 10000,
+      "destroy_after_movable": false,
+      "passive_skill_id": 0,
+      "visible_hp": false,
+      "linked_parts_id": 45200401,
+      "weapon_object": [
+        "None"
+      ],
+      "weapon_object_enum": [
+        "none"
+      ],
+      "parts_type": "Head",
+      "parts_object": [
+        "parts_col_128"
+      ],
+      "monster_destroy_anim_trigger": "None",
+      "is_main_part": false,
+      "is_parts_damage_able": false
+    },
+    {
+      "id": 45200416,
+      "monster_model_id": 452004,
+      "damage_hp_ratio": 0,
+      "hp_ratio": 10000,
+      "attack_ratio": 10000,
+      "defence_ratio": 10000,
+      "energy_resist_ratio": 10000,
+      "metal_resist_ratio": 10000,
+      "bio_resist_ratio": 10000,
+      "destroy_after_movable": false,
+      "passive_skill_id": 0,
+      "visible_hp": false,
+      "linked_parts_id": 45200401,
+      "weapon_object": [
+        "None"
+      ],
+      "weapon_object_enum": [
+        "none"
+      ],
+      "parts_type": "Leg_Front_Left",
+      "parts_object": [
+        "parts_col_129"
+      ],
+      "monster_destroy_anim_trigger": "None",
+      "is_main_part": false,
+      "is_parts_damage_able": false
+    },
+    {
+      "id": 45200417,
+      "monster_model_id": 452004,
+      "damage_hp_ratio": 0,
+      "hp_ratio": 10000,
+      "attack_ratio": 10000,
+      "defence_ratio": 10000,
+      "energy_resist_ratio": 10000,
+      "metal_resist_ratio": 10000,
+      "bio_resist_ratio": 10000,
+      "destroy_after_movable": false,
+      "passive_skill_id": 0,
+      "visible_hp": false,
+      "linked_parts_id": 45200401,
+      "weapon_object": [
+        "None"
+      ],
+      "weapon_object_enum": [
+        "none"
+      ],
+      "parts_type": "Leg_Front_Right",
+      "parts_object": [
+        "parts_col_130"
+      ],
+      "monster_destroy_anim_trigger": "None",
+      "is_main_part": false,
+      "is_parts_damage_able": false
     }
   ]
 }

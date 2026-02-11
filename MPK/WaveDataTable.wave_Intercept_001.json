@@ -3436,7 +3436,7 @@
       "group_id": "wave_Intercept_001",
       "spot_mod": "Cooperation",
       "ui_theme": "None",
-      "battle_time": 180,
+      "battle_time": 120,
       "mod_value": "0",
       "monster_count": 5,
       "use_intro_scene": false,
@@ -4416,7 +4416,7 @@
       "group_id": "wave_Intercept_001",
       "spot_mod": "Cooperation",
       "ui_theme": "None",
-      "battle_time": 180,
+      "battle_time": 120,
       "mod_value": "0",
       "monster_count": 2,
       "use_intro_scene": false,
@@ -6131,7 +6131,7 @@
       "group_id": "wave_Intercept_001",
       "spot_mod": "Cooperation",
       "ui_theme": "None",
-      "battle_time": 180,
+      "battle_time": 120,
       "mod_value": "0",
       "monster_count": 2,
       "use_intro_scene": false,
@@ -6376,7 +6376,7 @@
       "group_id": "wave_Intercept_001",
       "spot_mod": "Cooperation",
       "ui_theme": "None",
-      "battle_time": 180,
+      "battle_time": 120,
       "mod_value": "0",
       "monster_count": 2,
       "use_intro_scene": false,
@@ -7846,7 +7846,7 @@
       "group_id": "wave_Intercept_001",
       "spot_mod": "Cooperation",
       "ui_theme": "None",
-      "battle_time": 180,
+      "battle_time": 120,
       "mod_value": "0",
       "monster_count": 2,
       "use_intro_scene": false,
@@ -8336,7 +8336,7 @@
       "group_id": "wave_Intercept_001",
       "spot_mod": "Cooperation",
       "ui_theme": "None",
-      "battle_time": 180,
+      "battle_time": 120,
       "mod_value": "0",
       "monster_count": 2,
       "use_intro_scene": false,
@@ -8581,7 +8581,7 @@
       "group_id": "wave_Intercept_001",
       "spot_mod": "Cooperation",
       "ui_theme": "None",
-      "battle_time": 180,
+      "battle_time": 120,
       "mod_value": "0",
       "monster_count": 2,
       "use_intro_scene": false,
@@ -9806,7 +9806,7 @@
       "group_id": "wave_Intercept_001",
       "spot_mod": "Cooperation",
       "ui_theme": "None",
-      "battle_time": 180,
+      "battle_time": 120,
       "mod_value": "0",
       "monster_count": 5,
       "use_intro_scene": false,
@@ -11270,6 +11270,251 @@
       "close_monster_count": 0,
       "mid_monster_count": 1,
       "far_monster_count": 0
+    },
+    {
+      "stage_id": 6303036,
+      "group_id": "wave_Intercept_001",
+      "spot_mod": "Cooperation",
+      "ui_theme": "None",
+      "battle_time": 120,
+      "mod_value": "0",
+      "monster_count": 2,
+      "use_intro_scene": false,
+      "wave_repeat": false,
+      "point_data": "point_grd_gatekeeper",
+      "point_data_fly": "point_fly_gatekeeper",
+      "background_name": "sbg_cityforest_sky_001a",
+      "theme": "CityForestUnder",
+      "theme_time": "Day",
+      "stage_info_bg": "ibg_cityforest_001",
+      "target_list": [
+        2510031012
+      ],
+      "wave_data": [
+        {
+          "wave_path": "b_fly_gatekeeper_01",
+          "private_monster_count": -1,
+          "wave_monster_list": [
+            {
+              "wave_monster_id": 2510031012,
+              "spawn_type": "Normal"
+            },
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            },
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            },
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            }
+          ]
+        },
+        {
+          "wave_path": "",
+          "private_monster_count": -1,
+          "wave_monster_list": [
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            },
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            },
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            },
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            }
+          ]
+        },
+        {
+          "wave_path": "",
+          "private_monster_count": -1,
+          "wave_monster_list": [
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            },
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            },
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            },
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            }
+          ]
+        },
+        {
+          "wave_path": "",
+          "private_monster_count": -1,
+          "wave_monster_list": [
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            },
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            },
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            },
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            }
+          ]
+        },
+        {
+          "wave_path": "",
+          "private_monster_count": -1,
+          "wave_monster_list": [
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            },
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            },
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            },
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            }
+          ]
+        },
+        {
+          "wave_path": "",
+          "private_monster_count": -1,
+          "wave_monster_list": [
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            },
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            },
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            },
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            }
+          ]
+        },
+        {
+          "wave_path": "",
+          "private_monster_count": -1,
+          "wave_monster_list": [
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            },
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            },
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            },
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            }
+          ]
+        },
+        {
+          "wave_path": "",
+          "private_monster_count": -1,
+          "wave_monster_list": [
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            },
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            },
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            },
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            }
+          ]
+        },
+        {
+          "wave_path": "",
+          "private_monster_count": -1,
+          "wave_monster_list": [
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            },
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            },
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            },
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            }
+          ]
+        },
+        {
+          "wave_path": "",
+          "private_monster_count": -1,
+          "wave_monster_list": [
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            },
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            },
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            },
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            }
+          ]
+        }
+      ],
+      "close_monster_count": 0,
+      "mid_monster_count": 0,
+      "far_monster_count": 1
     },
     {
       "stage_id": 6304001,
@@ -44102,6 +44347,496 @@
       "far_monster_count": 1
     },
     {
+      "stage_id": 6304135,
+      "group_id": "wave_Intercept_001",
+      "spot_mod": "UnionRaid",
+      "ui_theme": "None",
+      "battle_time": 180,
+      "mod_value": "0",
+      "monster_count": 6,
+      "use_intro_scene": false,
+      "wave_repeat": false,
+      "point_data": "point_grd_wasteland_004",
+      "point_data_fly": "point_fly_wasteland_004",
+      "background_name": "sbg_wasteland_004",
+      "theme": "Wasteland",
+      "theme_time": "Day",
+      "stage_info_bg": "ibg_wasteland_001",
+      "target_list": [
+        1420030144
+      ],
+      "wave_data": [
+        {
+          "wave_path": "path_grd_mid_centurion_901",
+          "private_monster_count": -1,
+          "wave_monster_list": [
+            {
+              "wave_monster_id": 1420030144,
+              "spawn_type": "Normal"
+            },
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            },
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            },
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            }
+          ]
+        },
+        {
+          "wave_path": "",
+          "private_monster_count": -1,
+          "wave_monster_list": [
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            },
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            },
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            },
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            }
+          ]
+        },
+        {
+          "wave_path": "",
+          "private_monster_count": -1,
+          "wave_monster_list": [
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            },
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            },
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            },
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            }
+          ]
+        },
+        {
+          "wave_path": "",
+          "private_monster_count": -1,
+          "wave_monster_list": [
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            },
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            },
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            },
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            }
+          ]
+        },
+        {
+          "wave_path": "",
+          "private_monster_count": -1,
+          "wave_monster_list": [
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            },
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            },
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            },
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            }
+          ]
+        },
+        {
+          "wave_path": "",
+          "private_monster_count": -1,
+          "wave_monster_list": [
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            },
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            },
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            },
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            }
+          ]
+        },
+        {
+          "wave_path": "",
+          "private_monster_count": -1,
+          "wave_monster_list": [
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            },
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            },
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            },
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            }
+          ]
+        },
+        {
+          "wave_path": "",
+          "private_monster_count": -1,
+          "wave_monster_list": [
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            },
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            },
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            },
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            }
+          ]
+        },
+        {
+          "wave_path": "",
+          "private_monster_count": -1,
+          "wave_monster_list": [
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            },
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            },
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            },
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            }
+          ]
+        },
+        {
+          "wave_path": "",
+          "private_monster_count": -1,
+          "wave_monster_list": [
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            },
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            },
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            },
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            }
+          ]
+        }
+      ],
+      "close_monster_count": 0,
+      "mid_monster_count": 1,
+      "far_monster_count": 0
+    },
+    {
+      "stage_id": 6304136,
+      "group_id": "wave_Intercept_001",
+      "spot_mod": "UnionRaid",
+      "ui_theme": "None",
+      "battle_time": 180,
+      "mod_value": "0",
+      "monster_count": 6,
+      "use_intro_scene": false,
+      "wave_repeat": false,
+      "point_data": "point_grd_wasteland_004",
+      "point_data_fly": "point_fly_wasteland_004",
+      "background_name": "sbg_wasteland_004",
+      "theme": "Wasteland",
+      "theme_time": "Day",
+      "stage_info_bg": "ibg_wasteland_001",
+      "target_list": [
+        1420030744
+      ],
+      "wave_data": [
+        {
+          "wave_path": "path_grd_mid_centurion_901",
+          "private_monster_count": -1,
+          "wave_monster_list": [
+            {
+              "wave_monster_id": 1420030744,
+              "spawn_type": "Normal"
+            },
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            },
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            },
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            }
+          ]
+        },
+        {
+          "wave_path": "",
+          "private_monster_count": -1,
+          "wave_monster_list": [
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            },
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            },
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            },
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            }
+          ]
+        },
+        {
+          "wave_path": "",
+          "private_monster_count": -1,
+          "wave_monster_list": [
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            },
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            },
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            },
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            }
+          ]
+        },
+        {
+          "wave_path": "",
+          "private_monster_count": -1,
+          "wave_monster_list": [
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            },
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            },
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            },
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            }
+          ]
+        },
+        {
+          "wave_path": "",
+          "private_monster_count": -1,
+          "wave_monster_list": [
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            },
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            },
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            },
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            }
+          ]
+        },
+        {
+          "wave_path": "",
+          "private_monster_count": -1,
+          "wave_monster_list": [
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            },
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            },
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            },
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            }
+          ]
+        },
+        {
+          "wave_path": "",
+          "private_monster_count": -1,
+          "wave_monster_list": [
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            },
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            },
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            },
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            }
+          ]
+        },
+        {
+          "wave_path": "",
+          "private_monster_count": -1,
+          "wave_monster_list": [
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            },
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            },
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            },
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            }
+          ]
+        },
+        {
+          "wave_path": "",
+          "private_monster_count": -1,
+          "wave_monster_list": [
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            },
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            },
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            },
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            }
+          ]
+        },
+        {
+          "wave_path": "",
+          "private_monster_count": -1,
+          "wave_monster_list": [
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            },
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            },
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            },
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            }
+          ]
+        }
+      ],
+      "close_monster_count": 0,
+      "mid_monster_count": 1,
+      "far_monster_count": 0
+    },
+    {
       "stage_id": 6700101,
       "group_id": "wave_Intercept_001",
       "spot_mod": "SoloRaid_Common",
@@ -47042,6 +47777,496 @@
       "far_monster_count": 1
     },
     {
+      "stage_id": 6700403,
+      "group_id": "wave_Intercept_001",
+      "spot_mod": "SoloRaid_Museum",
+      "ui_theme": "None",
+      "battle_time": 180,
+      "mod_value": "0",
+      "monster_count": 7,
+      "use_intro_scene": false,
+      "wave_repeat": false,
+      "point_data": "point_grd_alteisen_01",
+      "point_data_fly": "point_fly_alteisen_01",
+      "background_name": "sbg_desertmbg001_001",
+      "theme": "Desertmbg001",
+      "theme_time": "Day",
+      "stage_info_bg": "ibg_desert_001",
+      "target_list": [
+        3520111125
+      ],
+      "wave_data": [
+        {
+          "wave_path": "b_g_alteisen_01",
+          "private_monster_count": -1,
+          "wave_monster_list": [
+            {
+              "wave_monster_id": 3520111125,
+              "spawn_type": "Normal"
+            },
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            },
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            },
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            }
+          ]
+        },
+        {
+          "wave_path": "",
+          "private_monster_count": -1,
+          "wave_monster_list": [
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            },
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            },
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            },
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            }
+          ]
+        },
+        {
+          "wave_path": "",
+          "private_monster_count": -1,
+          "wave_monster_list": [
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            },
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            },
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            },
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            }
+          ]
+        },
+        {
+          "wave_path": "",
+          "private_monster_count": -1,
+          "wave_monster_list": [
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            },
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            },
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            },
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            }
+          ]
+        },
+        {
+          "wave_path": "",
+          "private_monster_count": -1,
+          "wave_monster_list": [
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            },
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            },
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            },
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            }
+          ]
+        },
+        {
+          "wave_path": "",
+          "private_monster_count": -1,
+          "wave_monster_list": [
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            },
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            },
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            },
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            }
+          ]
+        },
+        {
+          "wave_path": "",
+          "private_monster_count": -1,
+          "wave_monster_list": [
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            },
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            },
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            },
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            }
+          ]
+        },
+        {
+          "wave_path": "",
+          "private_monster_count": -1,
+          "wave_monster_list": [
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            },
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            },
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            },
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            }
+          ]
+        },
+        {
+          "wave_path": "",
+          "private_monster_count": -1,
+          "wave_monster_list": [
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            },
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            },
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            },
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            }
+          ]
+        },
+        {
+          "wave_path": "",
+          "private_monster_count": -1,
+          "wave_monster_list": [
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            },
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            },
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            },
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            }
+          ]
+        }
+      ],
+      "close_monster_count": 0,
+      "mid_monster_count": 0,
+      "far_monster_count": 1
+    },
+    {
+      "stage_id": 6700404,
+      "group_id": "wave_Intercept_001",
+      "spot_mod": "SoloRaid_Museum_Nolimit",
+      "ui_theme": "None",
+      "battle_time": 180,
+      "mod_value": "0",
+      "monster_count": 7,
+      "use_intro_scene": false,
+      "wave_repeat": false,
+      "point_data": "point_grd_alteisen_01",
+      "point_data_fly": "point_fly_alteisen_01",
+      "background_name": "sbg_desertmbg001_001",
+      "theme": "Desertmbg001",
+      "theme_time": "Day",
+      "stage_info_bg": "ibg_desert_001",
+      "target_list": [
+        3520111128
+      ],
+      "wave_data": [
+        {
+          "wave_path": "b_g_alteisen_01",
+          "private_monster_count": -1,
+          "wave_monster_list": [
+            {
+              "wave_monster_id": 3520111128,
+              "spawn_type": "Normal"
+            },
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            },
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            },
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            }
+          ]
+        },
+        {
+          "wave_path": "",
+          "private_monster_count": -1,
+          "wave_monster_list": [
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            },
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            },
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            },
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            }
+          ]
+        },
+        {
+          "wave_path": "",
+          "private_monster_count": -1,
+          "wave_monster_list": [
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            },
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            },
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            },
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            }
+          ]
+        },
+        {
+          "wave_path": "",
+          "private_monster_count": -1,
+          "wave_monster_list": [
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            },
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            },
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            },
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            }
+          ]
+        },
+        {
+          "wave_path": "",
+          "private_monster_count": -1,
+          "wave_monster_list": [
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            },
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            },
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            },
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            }
+          ]
+        },
+        {
+          "wave_path": "",
+          "private_monster_count": -1,
+          "wave_monster_list": [
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            },
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            },
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            },
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            }
+          ]
+        },
+        {
+          "wave_path": "",
+          "private_monster_count": -1,
+          "wave_monster_list": [
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            },
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            },
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            },
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            }
+          ]
+        },
+        {
+          "wave_path": "",
+          "private_monster_count": -1,
+          "wave_monster_list": [
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            },
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            },
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            },
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            }
+          ]
+        },
+        {
+          "wave_path": "",
+          "private_monster_count": -1,
+          "wave_monster_list": [
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            },
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            },
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            },
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            }
+          ]
+        },
+        {
+          "wave_path": "",
+          "private_monster_count": -1,
+          "wave_monster_list": [
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            },
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            },
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            },
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            }
+          ]
+        }
+      ],
+      "close_monster_count": 0,
+      "mid_monster_count": 0,
+      "far_monster_count": 1
+    },
+    {
       "stage_id": 6700501,
       "group_id": "wave_Intercept_001",
       "spot_mod": "SoloRaid_Common",
@@ -47802,6 +49027,496 @@
           "wave_monster_list": [
             {
               "wave_monster_id": 3520040155,
+              "spawn_type": "Normal"
+            },
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            },
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            },
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            }
+          ]
+        },
+        {
+          "wave_path": "",
+          "private_monster_count": -1,
+          "wave_monster_list": [
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            },
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            },
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            },
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            }
+          ]
+        },
+        {
+          "wave_path": "",
+          "private_monster_count": -1,
+          "wave_monster_list": [
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            },
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            },
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            },
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            }
+          ]
+        },
+        {
+          "wave_path": "",
+          "private_monster_count": -1,
+          "wave_monster_list": [
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            },
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            },
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            },
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            }
+          ]
+        },
+        {
+          "wave_path": "",
+          "private_monster_count": -1,
+          "wave_monster_list": [
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            },
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            },
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            },
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            }
+          ]
+        },
+        {
+          "wave_path": "",
+          "private_monster_count": -1,
+          "wave_monster_list": [
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            },
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            },
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            },
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            }
+          ]
+        },
+        {
+          "wave_path": "",
+          "private_monster_count": -1,
+          "wave_monster_list": [
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            },
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            },
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            },
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            }
+          ]
+        },
+        {
+          "wave_path": "",
+          "private_monster_count": -1,
+          "wave_monster_list": [
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            },
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            },
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            },
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            }
+          ]
+        },
+        {
+          "wave_path": "",
+          "private_monster_count": -1,
+          "wave_monster_list": [
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            },
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            },
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            },
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            }
+          ]
+        },
+        {
+          "wave_path": "",
+          "private_monster_count": -1,
+          "wave_monster_list": [
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            },
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            },
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            },
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            }
+          ]
+        }
+      ],
+      "close_monster_count": 0,
+      "mid_monster_count": 1,
+      "far_monster_count": 0
+    },
+    {
+      "stage_id": 6700603,
+      "group_id": "wave_Intercept_001",
+      "spot_mod": "SoloRaid_Museum",
+      "ui_theme": "None",
+      "battle_time": 180,
+      "mod_value": "0",
+      "monster_count": 6,
+      "use_intro_scene": false,
+      "wave_repeat": false,
+      "point_data": "point_grd_mordernia_01",
+      "point_data_fly": "point_fly_mordernia_01",
+      "background_name": "sbg_desert_sky_001",
+      "theme": "Desertmbg001",
+      "theme_time": "Day",
+      "stage_info_bg": "ibg_desert_001",
+      "target_list": [
+        3520041155
+      ],
+      "wave_data": [
+        {
+          "wave_path": "b_fly_mordernia_01",
+          "private_monster_count": -1,
+          "wave_monster_list": [
+            {
+              "wave_monster_id": 3520041155,
+              "spawn_type": "Normal"
+            },
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            },
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            },
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            }
+          ]
+        },
+        {
+          "wave_path": "",
+          "private_monster_count": -1,
+          "wave_monster_list": [
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            },
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            },
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            },
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            }
+          ]
+        },
+        {
+          "wave_path": "",
+          "private_monster_count": -1,
+          "wave_monster_list": [
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            },
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            },
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            },
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            }
+          ]
+        },
+        {
+          "wave_path": "",
+          "private_monster_count": -1,
+          "wave_monster_list": [
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            },
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            },
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            },
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            }
+          ]
+        },
+        {
+          "wave_path": "",
+          "private_monster_count": -1,
+          "wave_monster_list": [
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            },
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            },
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            },
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            }
+          ]
+        },
+        {
+          "wave_path": "",
+          "private_monster_count": -1,
+          "wave_monster_list": [
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            },
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            },
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            },
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            }
+          ]
+        },
+        {
+          "wave_path": "",
+          "private_monster_count": -1,
+          "wave_monster_list": [
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            },
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            },
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            },
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            }
+          ]
+        },
+        {
+          "wave_path": "",
+          "private_monster_count": -1,
+          "wave_monster_list": [
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            },
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            },
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            },
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            }
+          ]
+        },
+        {
+          "wave_path": "",
+          "private_monster_count": -1,
+          "wave_monster_list": [
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            },
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            },
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            },
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            }
+          ]
+        },
+        {
+          "wave_path": "",
+          "private_monster_count": -1,
+          "wave_monster_list": [
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            },
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            },
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            },
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            }
+          ]
+        }
+      ],
+      "close_monster_count": 0,
+      "mid_monster_count": 1,
+      "far_monster_count": 0
+    },
+    {
+      "stage_id": 6700604,
+      "group_id": "wave_Intercept_001",
+      "spot_mod": "SoloRaid_Museum_Nolimit",
+      "ui_theme": "None",
+      "battle_time": 180,
+      "mod_value": "0",
+      "monster_count": 6,
+      "use_intro_scene": false,
+      "wave_repeat": false,
+      "point_data": "point_grd_mordernia_01",
+      "point_data_fly": "point_fly_mordernia_01",
+      "background_name": "sbg_desert_sky_001",
+      "theme": "Desertmbg001",
+      "theme_time": "Day",
+      "stage_info_bg": "ibg_desert_001",
+      "target_list": [
+        3520041158
+      ],
+      "wave_data": [
+        {
+          "wave_path": "b_fly_mordernia_01",
+          "private_monster_count": -1,
+          "wave_monster_list": [
+            {
+              "wave_monster_id": 3520041158,
               "spawn_type": "Normal"
             },
             {
@@ -51232,6 +52947,496 @@
           "wave_monster_list": [
             {
               "wave_monster_id": 2510010138,
+              "spawn_type": "Normal"
+            },
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            },
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            },
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            }
+          ]
+        },
+        {
+          "wave_path": "",
+          "private_monster_count": -1,
+          "wave_monster_list": [
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            },
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            },
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            },
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            }
+          ]
+        },
+        {
+          "wave_path": "",
+          "private_monster_count": -1,
+          "wave_monster_list": [
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            },
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            },
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            },
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            }
+          ]
+        },
+        {
+          "wave_path": "",
+          "private_monster_count": -1,
+          "wave_monster_list": [
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            },
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            },
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            },
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            }
+          ]
+        },
+        {
+          "wave_path": "",
+          "private_monster_count": -1,
+          "wave_monster_list": [
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            },
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            },
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            },
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            }
+          ]
+        },
+        {
+          "wave_path": "",
+          "private_monster_count": -1,
+          "wave_monster_list": [
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            },
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            },
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            },
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            }
+          ]
+        },
+        {
+          "wave_path": "",
+          "private_monster_count": -1,
+          "wave_monster_list": [
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            },
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            },
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            },
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            }
+          ]
+        },
+        {
+          "wave_path": "",
+          "private_monster_count": -1,
+          "wave_monster_list": [
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            },
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            },
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            },
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            }
+          ]
+        },
+        {
+          "wave_path": "",
+          "private_monster_count": -1,
+          "wave_monster_list": [
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            },
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            },
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            },
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            }
+          ]
+        },
+        {
+          "wave_path": "",
+          "private_monster_count": -1,
+          "wave_monster_list": [
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            },
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            },
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            },
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            }
+          ]
+        }
+      ],
+      "close_monster_count": 0,
+      "mid_monster_count": 0,
+      "far_monster_count": 1
+    },
+    {
+      "stage_id": 6701203,
+      "group_id": "wave_Intercept_001",
+      "spot_mod": "SoloRaid_Museum",
+      "ui_theme": "None",
+      "battle_time": 180,
+      "mod_value": "0",
+      "monster_count": 2,
+      "use_intro_scene": false,
+      "wave_repeat": false,
+      "point_data": "point_grd_stormbringer_01",
+      "point_data_fly": "point_fly_stormbringer_01",
+      "background_name": "sbg_greathole_sky_001",
+      "theme": "GreatHole",
+      "theme_time": "Day",
+      "stage_info_bg": "ibg_greathole_001",
+      "target_list": [
+        2510111135
+      ],
+      "wave_data": [
+        {
+          "wave_path": "b_fly_stormbringer_01",
+          "private_monster_count": -1,
+          "wave_monster_list": [
+            {
+              "wave_monster_id": 2510111135,
+              "spawn_type": "Normal"
+            },
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            },
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            },
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            }
+          ]
+        },
+        {
+          "wave_path": "",
+          "private_monster_count": -1,
+          "wave_monster_list": [
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            },
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            },
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            },
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            }
+          ]
+        },
+        {
+          "wave_path": "",
+          "private_monster_count": -1,
+          "wave_monster_list": [
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            },
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            },
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            },
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            }
+          ]
+        },
+        {
+          "wave_path": "",
+          "private_monster_count": -1,
+          "wave_monster_list": [
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            },
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            },
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            },
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            }
+          ]
+        },
+        {
+          "wave_path": "",
+          "private_monster_count": -1,
+          "wave_monster_list": [
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            },
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            },
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            },
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            }
+          ]
+        },
+        {
+          "wave_path": "",
+          "private_monster_count": -1,
+          "wave_monster_list": [
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            },
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            },
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            },
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            }
+          ]
+        },
+        {
+          "wave_path": "",
+          "private_monster_count": -1,
+          "wave_monster_list": [
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            },
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            },
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            },
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            }
+          ]
+        },
+        {
+          "wave_path": "",
+          "private_monster_count": -1,
+          "wave_monster_list": [
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            },
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            },
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            },
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            }
+          ]
+        },
+        {
+          "wave_path": "",
+          "private_monster_count": -1,
+          "wave_monster_list": [
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            },
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            },
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            },
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            }
+          ]
+        },
+        {
+          "wave_path": "",
+          "private_monster_count": -1,
+          "wave_monster_list": [
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            },
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            },
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            },
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            }
+          ]
+        }
+      ],
+      "close_monster_count": 0,
+      "mid_monster_count": 0,
+      "far_monster_count": 1
+    },
+    {
+      "stage_id": 6701204,
+      "group_id": "wave_Intercept_001",
+      "spot_mod": "SoloRaid_Museum_Nolimit",
+      "ui_theme": "None",
+      "battle_time": 180,
+      "mod_value": "0",
+      "monster_count": 2,
+      "use_intro_scene": false,
+      "wave_repeat": false,
+      "point_data": "point_grd_stormbringer_01",
+      "point_data_fly": "point_fly_stormbringer_01",
+      "background_name": "sbg_greathole_sky_001",
+      "theme": "GreatHole",
+      "theme_time": "Day",
+      "stage_info_bg": "ibg_greathole_001",
+      "target_list": [
+        2510111138
+      ],
+      "wave_data": [
+        {
+          "wave_path": "b_fly_stormbringer_01",
+          "private_monster_count": -1,
+          "wave_monster_list": [
+            {
+              "wave_monster_id": 2510111138,
               "spawn_type": "Normal"
             },
             {
@@ -61740,6 +63945,496 @@
       "close_monster_count": 0,
       "mid_monster_count": 0,
       "far_monster_count": 1
+    },
+    {
+      "stage_id": 6703401,
+      "group_id": "wave_Intercept_001",
+      "spot_mod": "SoloRaid_Common",
+      "ui_theme": "None",
+      "battle_time": 180,
+      "mod_value": "0",
+      "monster_count": 1,
+      "use_intro_scene": false,
+      "wave_repeat": false,
+      "point_data": "point_grd_altruia_01",
+      "point_data_fly": "point_fly_altruia_01",
+      "background_name": "sbg_desertxbg002_001",
+      "theme": "Desert",
+      "theme_time": "Day",
+      "stage_info_bg": "ibg_desert_001",
+      "target_list": [
+        4520040145
+      ],
+      "wave_data": [
+        {
+          "wave_path": "b_fly_altruia_01",
+          "private_monster_count": -1,
+          "wave_monster_list": [
+            {
+              "wave_monster_id": 4520040145,
+              "spawn_type": "Normal"
+            },
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            },
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            },
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            }
+          ]
+        },
+        {
+          "wave_path": "",
+          "private_monster_count": -1,
+          "wave_monster_list": [
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            },
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            },
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            },
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            }
+          ]
+        },
+        {
+          "wave_path": "",
+          "private_monster_count": -1,
+          "wave_monster_list": [
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            },
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            },
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            },
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            }
+          ]
+        },
+        {
+          "wave_path": "",
+          "private_monster_count": -1,
+          "wave_monster_list": [
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            },
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            },
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            },
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            }
+          ]
+        },
+        {
+          "wave_path": "",
+          "private_monster_count": -1,
+          "wave_monster_list": [
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            },
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            },
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            },
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            }
+          ]
+        },
+        {
+          "wave_path": "",
+          "private_monster_count": -1,
+          "wave_monster_list": [
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            },
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            },
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            },
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            }
+          ]
+        },
+        {
+          "wave_path": "",
+          "private_monster_count": -1,
+          "wave_monster_list": [
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            },
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            },
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            },
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            }
+          ]
+        },
+        {
+          "wave_path": "",
+          "private_monster_count": -1,
+          "wave_monster_list": [
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            },
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            },
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            },
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            }
+          ]
+        },
+        {
+          "wave_path": "",
+          "private_monster_count": -1,
+          "wave_monster_list": [
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            },
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            },
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            },
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            }
+          ]
+        },
+        {
+          "wave_path": "",
+          "private_monster_count": -1,
+          "wave_monster_list": [
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            },
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            },
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            },
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            }
+          ]
+        }
+      ],
+      "close_monster_count": 0,
+      "mid_monster_count": 1,
+      "far_monster_count": 0
+    },
+    {
+      "stage_id": 6703402,
+      "group_id": "wave_Intercept_001",
+      "spot_mod": "SoloRaid_Trial",
+      "ui_theme": "None",
+      "battle_time": 180,
+      "mod_value": "0",
+      "monster_count": 1,
+      "use_intro_scene": false,
+      "wave_repeat": false,
+      "point_data": "point_grd_altruia_01",
+      "point_data_fly": "point_fly_altruia_01",
+      "background_name": "sbg_desertxbg002_001",
+      "theme": "Desert",
+      "theme_time": "Day",
+      "stage_info_bg": "ibg_desert_001",
+      "target_list": [
+        4520040148
+      ],
+      "wave_data": [
+        {
+          "wave_path": "b_fly_altruia_01",
+          "private_monster_count": -1,
+          "wave_monster_list": [
+            {
+              "wave_monster_id": 4520040148,
+              "spawn_type": "Normal"
+            },
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            },
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            },
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            }
+          ]
+        },
+        {
+          "wave_path": "",
+          "private_monster_count": -1,
+          "wave_monster_list": [
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            },
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            },
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            },
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            }
+          ]
+        },
+        {
+          "wave_path": "",
+          "private_monster_count": -1,
+          "wave_monster_list": [
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            },
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            },
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            },
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            }
+          ]
+        },
+        {
+          "wave_path": "",
+          "private_monster_count": -1,
+          "wave_monster_list": [
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            },
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            },
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            },
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            }
+          ]
+        },
+        {
+          "wave_path": "",
+          "private_monster_count": -1,
+          "wave_monster_list": [
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            },
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            },
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            },
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            }
+          ]
+        },
+        {
+          "wave_path": "",
+          "private_monster_count": -1,
+          "wave_monster_list": [
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            },
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            },
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            },
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            }
+          ]
+        },
+        {
+          "wave_path": "",
+          "private_monster_count": -1,
+          "wave_monster_list": [
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            },
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            },
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            },
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            }
+          ]
+        },
+        {
+          "wave_path": "",
+          "private_monster_count": -1,
+          "wave_monster_list": [
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            },
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            },
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            },
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            }
+          ]
+        },
+        {
+          "wave_path": "",
+          "private_monster_count": -1,
+          "wave_monster_list": [
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            },
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            },
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            },
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            }
+          ]
+        },
+        {
+          "wave_path": "",
+          "private_monster_count": -1,
+          "wave_monster_list": [
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            },
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            },
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            },
+            {
+              "wave_monster_id": 0,
+              "spawn_type": "None"
+            }
+          ]
+        }
+      ],
+      "close_monster_count": 0,
+      "mid_monster_count": 1,
+      "far_monster_count": 0
     }
   ]
 }

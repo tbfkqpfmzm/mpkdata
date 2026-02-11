@@ -1050,6 +1050,174 @@
         }
       ],
       "albumcategory_id": 50013
+    },
+    {
+      "id": 201401,
+      "name_localkey": "Locale_Item:favoriteitem_favorite_c170_00",
+      "description_localkey": "Locale_Item:favoriteitem_favorite_c170_00_desc",
+      "icon_resource_id": "si_favoriteitem_c170_00",
+      "img_resource_id": "favoriteitem_c170_00",
+      "prop_resource_id": "favoriteitem_common_prop_02",
+      "order": 114,
+      "favorite_rare": "SSR",
+      "favorite_type": "Favorite",
+      "weapon_type": "AR",
+      "name_code": 5007,
+      "max_level": 2,
+      "level_enhance_id": 201401,
+      "probability_group": 5007,
+      "collection_skill_group_data": [
+        {
+          "collection_skill_id": 712101
+        },
+        {
+          "collection_skill_id": 712002
+        }
+      ],
+      "favoriteitem_skill_group_data": [
+        {
+          "favorite_skill_id": 1170351,
+          "skill_table": "CharacterSkill",
+          "skill_change_slot": 3
+        },
+        {
+          "favorite_skill_id": 2170251,
+          "skill_table": "StateEffect",
+          "skill_change_slot": 2
+        },
+        {
+          "favorite_skill_id": 2170151,
+          "skill_table": "StateEffect",
+          "skill_change_slot": 1
+        }
+      ],
+      "albumcategory_id": 50014
+    },
+    {
+      "id": 201501,
+      "name_localkey": "Locale_Item:favoriteitem_favorite_c390_00",
+      "description_localkey": "Locale_Item:favoriteitem_favorite_c390_00_desc",
+      "icon_resource_id": "si_favoriteitem_c390_00",
+      "img_resource_id": "favoriteitem_c390_00",
+      "prop_resource_id": "favoriteitem_common_prop_02",
+      "order": 115,
+      "favorite_rare": "SSR",
+      "favorite_type": "Favorite",
+      "weapon_type": "SG",
+      "name_code": 5088,
+      "max_level": 2,
+      "level_enhance_id": 201501,
+      "probability_group": 5088,
+      "collection_skill_group_data": [
+        {
+          "collection_skill_id": 712501
+        },
+        {
+          "collection_skill_id": 712002
+        }
+      ],
+      "favoriteitem_skill_group_data": [
+        {
+          "favorite_skill_id": 1390351,
+          "skill_table": "CharacterSkill",
+          "skill_change_slot": 3
+        },
+        {
+          "favorite_skill_id": 2390251,
+          "skill_table": "StateEffect",
+          "skill_change_slot": 2
+        },
+        {
+          "favorite_skill_id": 2390151,
+          "skill_table": "StateEffect",
+          "skill_change_slot": 1
+        }
+      ],
+      "albumcategory_id": 50015
+    },
+    {
+      "id": 201601,
+      "name_localkey": "Locale_Item:favoriteitem_favorite_c080_00",
+      "description_localkey": "Locale_Item:favoriteitem_favorite_c080_00_desc",
+      "icon_resource_id": "si_favoriteitem_c080_00",
+      "img_resource_id": "favoriteitem_c080_00",
+      "prop_resource_id": "favoriteitem_common_prop_02",
+      "order": 116,
+      "favorite_rare": "SSR",
+      "favorite_type": "Favorite",
+      "weapon_type": "RL",
+      "name_code": 5021,
+      "max_level": 2,
+      "level_enhance_id": 201601,
+      "probability_group": 5021,
+      "collection_skill_group_data": [
+        {
+          "collection_skill_id": 712301
+        },
+        {
+          "collection_skill_id": 712002
+        }
+      ],
+      "favoriteitem_skill_group_data": [
+        {
+          "favorite_skill_id": 1080251,
+          "skill_table": "CharacterSkill",
+          "skill_change_slot": 2
+        },
+        {
+          "favorite_skill_id": 2080151,
+          "skill_table": "StateEffect",
+          "skill_change_slot": 1
+        },
+        {
+          "favorite_skill_id": 1080351,
+          "skill_table": "CharacterSkill",
+          "skill_change_slot": 3
+        }
+      ],
+      "albumcategory_id": 50016
+    },
+    {
+      "id": 201701,
+      "name_localkey": "Locale_Item:favoriteitem_favorite_c281_00",
+      "description_localkey": "Locale_Item:favoriteitem_favorite_c281_00_desc",
+      "icon_resource_id": "si_favoriteitem_c281_00",
+      "img_resource_id": "favoriteitem_c281_00",
+      "prop_resource_id": "favoriteitem_common_prop_02",
+      "order": 117,
+      "favorite_rare": "SSR",
+      "favorite_type": "Favorite",
+      "weapon_type": "AR",
+      "name_code": 1021,
+      "max_level": 2,
+      "level_enhance_id": 201701,
+      "probability_group": 1021,
+      "collection_skill_group_data": [
+        {
+          "collection_skill_id": 712101
+        },
+        {
+          "collection_skill_id": 712002
+        }
+      ],
+      "favoriteitem_skill_group_data": [
+        {
+          "favorite_skill_id": 2281151,
+          "skill_table": "StateEffect",
+          "skill_change_slot": 1
+        },
+        {
+          "favorite_skill_id": 2281251,
+          "skill_table": "StateEffect",
+          "skill_change_slot": 2
+        },
+        {
+          "favorite_skill_id": 1281351,
+          "skill_table": "CharacterSkill",
+          "skill_change_slot": 3
+        }
+      ],
+      "albumcategory_id": 50017
     }
   ]
 }

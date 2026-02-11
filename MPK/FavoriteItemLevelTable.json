@@ -6468,6 +6468,342 @@
           "collection_skill_level": 4
         }
       ]
+    },
+    {
+      "id": 11401,
+      "level_enhance_id": 201401,
+      "grade": 1,
+      "level": 0,
+      "favoriteitem_stat_data": [
+        {
+          "stat_type": "Atk",
+          "stat_value": 9688
+        },
+        {
+          "stat_type": "Defence",
+          "stat_value": 2058
+        },
+        {
+          "stat_type": "Hp",
+          "stat_value": 301800
+        }
+      ],
+      "collection_skill_level_data": [
+        {
+          "collection_skill_level": 4
+        },
+        {
+          "collection_skill_level": 4
+        }
+      ]
+    },
+    {
+      "id": 11402,
+      "level_enhance_id": 201401,
+      "grade": 2,
+      "level": 1,
+      "favoriteitem_stat_data": [
+        {
+          "stat_type": "Atk",
+          "stat_value": 9688
+        },
+        {
+          "stat_type": "Defence",
+          "stat_value": 2058
+        },
+        {
+          "stat_type": "Hp",
+          "stat_value": 301800
+        }
+      ],
+      "collection_skill_level_data": [
+        {
+          "collection_skill_level": 4
+        },
+        {
+          "collection_skill_level": 4
+        }
+      ]
+    },
+    {
+      "id": 11403,
+      "level_enhance_id": 201401,
+      "grade": 3,
+      "level": 2,
+      "favoriteitem_stat_data": [
+        {
+          "stat_type": "Atk",
+          "stat_value": 9688
+        },
+        {
+          "stat_type": "Defence",
+          "stat_value": 2058
+        },
+        {
+          "stat_type": "Hp",
+          "stat_value": 301800
+        }
+      ],
+      "collection_skill_level_data": [
+        {
+          "collection_skill_level": 4
+        },
+        {
+          "collection_skill_level": 4
+        }
+      ]
+    },
+    {
+      "id": 11501,
+      "level_enhance_id": 201501,
+      "grade": 1,
+      "level": 0,
+      "favoriteitem_stat_data": [
+        {
+          "stat_type": "Atk",
+          "stat_value": 9688
+        },
+        {
+          "stat_type": "Defence",
+          "stat_value": 2058
+        },
+        {
+          "stat_type": "Hp",
+          "stat_value": 301800
+        }
+      ],
+      "collection_skill_level_data": [
+        {
+          "collection_skill_level": 4
+        },
+        {
+          "collection_skill_level": 4
+        }
+      ]
+    },
+    {
+      "id": 11502,
+      "level_enhance_id": 201501,
+      "grade": 2,
+      "level": 1,
+      "favoriteitem_stat_data": [
+        {
+          "stat_type": "Atk",
+          "stat_value": 9688
+        },
+        {
+          "stat_type": "Defence",
+          "stat_value": 2058
+        },
+        {
+          "stat_type": "Hp",
+          "stat_value": 301800
+        }
+      ],
+      "collection_skill_level_data": [
+        {
+          "collection_skill_level": 4
+        },
+        {
+          "collection_skill_level": 4
+        }
+      ]
+    },
+    {
+      "id": 11503,
+      "level_enhance_id": 201501,
+      "grade": 3,
+      "level": 2,
+      "favoriteitem_stat_data": [
+        {
+          "stat_type": "Atk",
+          "stat_value": 9688
+        },
+        {
+          "stat_type": "Defence",
+          "stat_value": 2058
+        },
+        {
+          "stat_type": "Hp",
+          "stat_value": 301800
+        }
+      ],
+      "collection_skill_level_data": [
+        {
+          "collection_skill_level": 4
+        },
+        {
+          "collection_skill_level": 4
+        }
+      ]
+    },
+    {
+      "id": 11601,
+      "level_enhance_id": 201601,
+      "grade": 1,
+      "level": 0,
+      "favoriteitem_stat_data": [
+        {
+          "stat_type": "Atk",
+          "stat_value": 9688
+        },
+        {
+          "stat_type": "Defence",
+          "stat_value": 2058
+        },
+        {
+          "stat_type": "Hp",
+          "stat_value": 301800
+        }
+      ],
+      "collection_skill_level_data": [
+        {
+          "collection_skill_level": 4
+        },
+        {
+          "collection_skill_level": 4
+        }
+      ]
+    },
+    {
+      "id": 11602,
+      "level_enhance_id": 201601,
+      "grade": 2,
+      "level": 1,
+      "favoriteitem_stat_data": [
+        {
+          "stat_type": "Atk",
+          "stat_value": 9688
+        },
+        {
+          "stat_type": "Defence",
+          "stat_value": 2058
+        },
+        {
+          "stat_type": "Hp",
+          "stat_value": 301800
+        }
+      ],
+      "collection_skill_level_data": [
+        {
+          "collection_skill_level": 4
+        },
+        {
+          "collection_skill_level": 4
+        }
+      ]
+    },
+    {
+      "id": 11603,
+      "level_enhance_id": 201601,
+      "grade": 3,
+      "level": 2,
+      "favoriteitem_stat_data": [
+        {
+          "stat_type": "Atk",
+          "stat_value": 9688
+        },
+        {
+          "stat_type": "Defence",
+          "stat_value": 2058
+        },
+        {
+          "stat_type": "Hp",
+          "stat_value": 301800
+        }
+      ],
+      "collection_skill_level_data": [
+        {
+          "collection_skill_level": 4
+        },
+        {
+          "collection_skill_level": 4
+        }
+      ]
+    },
+    {
+      "id": 11701,
+      "level_enhance_id": 201701,
+      "grade": 1,
+      "level": 0,
+      "favoriteitem_stat_data": [
+        {
+          "stat_type": "Atk",
+          "stat_value": 9688
+        },
+        {
+          "stat_type": "Defence",
+          "stat_value": 2058
+        },
+        {
+          "stat_type": "Hp",
+          "stat_value": 301800
+        }
+      ],
+      "collection_skill_level_data": [
+        {
+          "collection_skill_level": 4
+        },
+        {
+          "collection_skill_level": 4
+        }
+      ]
+    },
+    {
+      "id": 11702,
+      "level_enhance_id": 201701,
+      "grade": 2,
+      "level": 1,
+      "favoriteitem_stat_data": [
+        {
+          "stat_type": "Atk",
+          "stat_value": 9688
+        },
+        {
+          "stat_type": "Defence",
+          "stat_value": 2058
+        },
+        {
+          "stat_type": "Hp",
+          "stat_value": 301800
+        }
+      ],
+      "collection_skill_level_data": [
+        {
+          "collection_skill_level": 4
+        },
+        {
+          "collection_skill_level": 4
+        }
+      ]
+    },
+    {
+      "id": 11703,
+      "level_enhance_id": 201701,
+      "grade": 3,
+      "level": 2,
+      "favoriteitem_stat_data": [
+        {
+          "stat_type": "Atk",
+          "stat_value": 9688
+        },
+        {
+          "stat_type": "Defence",
+          "stat_value": 2058
+        },
+        {
+          "stat_type": "Hp",
+          "stat_value": 301800
+        }
+      ],
+      "collection_skill_level_data": [
+        {
+          "collection_skill_level": 4
+        },
+        {
+          "collection_skill_level": 4
+        }
+      ]
     }
   ]
 }

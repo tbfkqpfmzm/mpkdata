@@ -1344,6 +1344,54 @@
       "buy_limit_count": 1,
       "is_free": false,
       "midas_product_id": 10217003
+    },
+    {
+      "id": 217601,
+      "custom_shop_id": 2176,
+      "custom_order": 1,
+      "package_group_id": 216201,
+      "custom_group_id": 216201,
+      "custom_group_count": 3,
+      "name_localkey": "Locale_InAppShopProduct:PACKAGESHOP_CUSTOM_01_PRODUCT_01_NAME",
+      "description_localkey": "Locale_InAppShopProduct:PACKAGESHOP_PRODUCT_DESC",
+      "product_resource_id": "icn_inappshop_package_custom_02_01",
+      "buy_limit_type": "Account",
+      "is_limit": true,
+      "buy_limit_count": 1,
+      "is_free": false,
+      "midas_product_id": 10217601
+    },
+    {
+      "id": 217602,
+      "custom_shop_id": 2176,
+      "custom_order": 2,
+      "package_group_id": 216202,
+      "custom_group_id": 216202,
+      "custom_group_count": 4,
+      "name_localkey": "Locale_InAppShopProduct:PACKAGESHOP_CUSTOM_01_PRODUCT_02_NAME",
+      "description_localkey": "Locale_InAppShopProduct:PACKAGESHOP_PRODUCT_DESC",
+      "product_resource_id": "icn_inappshop_package_custom_02_02",
+      "buy_limit_type": "Account",
+      "is_limit": true,
+      "buy_limit_count": 1,
+      "is_free": false,
+      "midas_product_id": 10217602
+    },
+    {
+      "id": 217603,
+      "custom_shop_id": 2176,
+      "custom_order": 3,
+      "package_group_id": 216203,
+      "custom_group_id": 216203,
+      "custom_group_count": 4,
+      "name_localkey": "Locale_InAppShopProduct:PACKAGESHOP_CUSTOM_01_PRODUCT_03_NAME",
+      "description_localkey": "Locale_InAppShopProduct:PACKAGESHOP_PRODUCT_DESC",
+      "product_resource_id": "icn_inappshop_package_custom_02_03_01",
+      "buy_limit_type": "Account",
+      "is_limit": true,
+      "buy_limit_count": 1,
+      "is_free": false,
+      "midas_product_id": 10217603
     }
   ]
 }
